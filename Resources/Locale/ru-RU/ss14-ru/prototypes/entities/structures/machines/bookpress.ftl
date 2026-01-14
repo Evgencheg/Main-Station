@@ -1,2 +1,2 @@
-ent-BookPress = book press
-    .desc = It produces tomes of knowledge in return for a humble offer of paper and cardboard.
+ent-BookPress = книжный пресс
+    .desc = Он производит тома знаний в обмен на скромное предложение бумаги и картона.

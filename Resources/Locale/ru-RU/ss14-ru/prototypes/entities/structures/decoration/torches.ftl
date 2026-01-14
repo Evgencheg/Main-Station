@@ -1,6 +1,6 @@
-ent-Torch2 = torch
-    .desc = A flaming torch for lighting an area.
-    .suffix = floor
+ent-Torch2 = факел
+    .desc = Пылающий факел для освещения территории.
+    .suffix = пол
 ent-TorchWall = { ent-Torch2 }
-    .suffix = wall
+    .suffix = стена
     .desc = { ent-Torch2.desc }

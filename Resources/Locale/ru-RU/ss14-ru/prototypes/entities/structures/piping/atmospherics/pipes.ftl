@@ -1,7 +1,7 @@
 ent-GasPipeNoOverlap = { ent-GasPipeBase }
     .desc = { ent-GasPipeBase.desc }
-ent-GasPipeBase = gas pipe
-    .desc = Holds gas.
+ent-GasPipeBase = газовая труба
+    .desc = Держит газ.
 ent-GasPipeHalf = { ent-GasPipeBase }
     .suffix = Половинная
     .desc = { ent-GasPipeBase.desc }

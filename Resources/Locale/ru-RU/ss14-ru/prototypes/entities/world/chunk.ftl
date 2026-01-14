@@ -1,4 +1,4 @@
-ent-WorldChunk = world chunk
+ent-WorldChunk = кусок мира
     .desc =
-        It's rude to stare.
-        It's also a bit odd you're looking at the abstract representation of the grid of reality.
+        Грубо пристально смотреть.
+        Также немного странно, что вы смотрите на абстрактное представление сетки реальности.

@@ -1,2 +1,2 @@
-ent-Mirror = mirror
-    .desc = Mirror mirror on the wall , who's the most robust of them all?
+ent-Mirror = зеркало
+    .desc = Зеркало, зеркало на стене, кто из них самый крепкий?

@@ -12,5 +12,5 @@ ent-PortalGatewayOrange = { ent-BasePortal }
     .desc = { ent-BasePortal.desc }
 ent-ShadowPortal = теневой разлом
     .desc = Выглядит нестабильно.
-ent-ShadowPortalTemp = unstable shadow rift
-    .desc = Its already closing!
+ent-ShadowPortalTemp = нестабильный теневой разлом
+    .desc = Оно уже закрывается!

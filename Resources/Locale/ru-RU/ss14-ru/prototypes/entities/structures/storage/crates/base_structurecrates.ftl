@@ -6,5 +6,5 @@ ent-CrateBaseSecure = { ent-CrateBaseWeldable }
     .desc = { ent-CrateBaseWeldable.desc }
     .suffix = Защищённый
 ent-CrateBaseSecureReinforced = { ent-CrateBaseSecure }
-    .suffix = Secure, Reinforced
+    .suffix = Защищённый, усиленный
     .desc = { ent-CrateBaseSecure.desc }

@@ -1,2 +1,2 @@
-ent-BinglePit = binglepit
-    .desc = Looks Hungry
+ent-BinglePit = яма
+    .desc = Выглядит голодным.

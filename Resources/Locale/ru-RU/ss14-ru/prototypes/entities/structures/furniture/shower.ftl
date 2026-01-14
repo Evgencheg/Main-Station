@@ -1,2 +1,2 @@
-ent-Shower = shower
-    .desc = A shower, complete with bluespace water.
+ent-Shower = душ
+    .desc = Душ с голубой водой.

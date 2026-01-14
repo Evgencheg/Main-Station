@@ -38,5 +38,5 @@ ent-Sheetifier = лист-мастер 2000
     .desc = Довольно мяссивное устройство.
 ent-CutterMachine = резательный станок
     .desc = Это резак. Он режет. Придайте разнообразия полу вашей станции с помощью интересных узоров! Не засовывайте внутрь пальцы.
-ent-PrizeCounter = prize counter
-    .desc = Claim your prize and win some toys and cute plushies!
+ent-PrizeCounter = счетчик призов
+    .desc = Получите свой приз и выиграйте игрушки и милые плюшевые игрушки!
