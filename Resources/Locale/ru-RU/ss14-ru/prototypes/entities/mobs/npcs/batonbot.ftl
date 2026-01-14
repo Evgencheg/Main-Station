@@ -1,2 +1,2 @@
-ent-MobBatonBot = batonbot
-    .desc = Defends the station from hostile wildlife.
+ent-MobBatonBot = дубинкабот
+    .desc = Защищает станцию от враждебной дикой природы.

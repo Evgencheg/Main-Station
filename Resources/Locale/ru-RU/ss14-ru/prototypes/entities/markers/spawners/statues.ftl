@@ -1,4 +1,4 @@
-ent-OracleSpawner = Oracle Spawner
+ent-OracleSpawner = Спавнер оракула
     .desc = { ent-MarkerBase.desc }
-ent-SophicScribeSpawner = Sophia Spawner
+ent-SophicScribeSpawner = Спавнер софии
     .desc = { ent-MarkerBase.desc }

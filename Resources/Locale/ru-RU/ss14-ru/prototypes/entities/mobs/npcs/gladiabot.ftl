@@ -1,2 +1,2 @@
-ent-MobGladiaBot = gladiabot
-    .desc = For glory!
+ent-MobGladiaBot = гладиабот
+    .desc = Во славу!

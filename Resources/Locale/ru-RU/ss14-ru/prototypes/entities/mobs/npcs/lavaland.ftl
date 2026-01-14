@@ -1,5 +1,5 @@
-ent-MobMagmaHand = magma hand
-    .desc = Looks hot to the touch... Better not shake its hand!
+ent-MobMagmaHand = рука магмы
+    .desc = На ощупь горячо... Лучше не пожимайте ему руку!
 ent-MobWatcherBase = наблюдатель
     .desc = Он будто смотрит прямо сквозь вас.
 ent-MobWatcherLavaland = { ent-MobWatcherBase }

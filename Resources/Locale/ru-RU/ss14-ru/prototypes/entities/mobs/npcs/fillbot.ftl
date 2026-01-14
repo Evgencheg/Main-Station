@@ -1,2 +1,2 @@
-ent-MobFillBot = fillbot
-    .desc = It picks up things and puts them somewhere else.
+ent-MobFillBot = заполнительбот
+    .desc = Он подбирает вещи и кладет их куда-то еще.

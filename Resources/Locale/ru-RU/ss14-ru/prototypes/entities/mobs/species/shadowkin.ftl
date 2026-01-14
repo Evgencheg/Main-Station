@@ -1,4 +1,4 @@
-ent-MobShadowkinBase = Urist McShadow
+ent-MobShadowkinBase = Урист МакШэдоу
     .desc = { ent-BaseMobSpeciesOrganic.desc }
 ent-MobShadowkinDummy = { ent-MobHumanDummy }
-    .desc = A dummy shadowkin meant to be used in character setup.
+    .desc = Манекен-теневой родственник, предназначенный для использования при настройке персонажа.

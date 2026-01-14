@@ -1,2 +1,2 @@
-ent-MobShadowkin = Urist McShadow
-    .desc = Their barrel chest doesn't seem to rise and fall as quickly as a human's, how unnerving.
+ent-MobShadowkin = Урист МакШэдоу
+    .desc = Их бочкообразная грудь, кажется, не поднимается и не опускается так быстро, как у человека, и это очень нервирует.

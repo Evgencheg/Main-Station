@@ -1,2 +1,2 @@
-ent-MobDisablerBot = disablerbot
-    .desc = Defends the station from hostile wildlife.
+ent-MobDisablerBot = робот-деактиватор
+    .desc = Защищает станцию Старший Инженерот враждебной дикой природы.

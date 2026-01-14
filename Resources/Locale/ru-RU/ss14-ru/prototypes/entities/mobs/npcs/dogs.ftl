@@ -1,4 +1,4 @@
-ent-MobPibble = pitbull
-    .desc = Nanny dog. Or a lab mix depending on who is asking.
-ent-MobPibbleVent = ventbull
-    .desc = Some kind of pitbull mix... or maybe the next stage in pibble evolution?
+ent-MobPibble = питбуль
+    .desc = Собака-няня. Или лабораторный микс, в зависимости от того, кто спрашивает.
+ent-MobPibbleVent = вентбулл
+    .desc = Какая-то смесь питбулей... или, может быть, это следующий этап эволюции питбулей?
