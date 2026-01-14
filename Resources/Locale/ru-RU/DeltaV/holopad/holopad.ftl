@@ -12,21 +12,21 @@ holopad-epistemics-front = НИО - Приёмная
 holopad-epistemics-breakroom = НИО - Комната отдыха
 holopad-epistemics-mantis = НИО - Мантис
 holopad-epistemics-oracle = НИО - Оракул
-# Logistics - Логистика (Карго)
-holopad-logistics-front = Логистика - Стойка заказов
-holopad-logistics-cargo-bay = Логистика - Грузовой отсек
-holodpad-logistics-mailroom = Логистика - Почта
-holodpad-logistics-mailfront = Логистика - Приём почты
-holopad-logistics-salvage-bay = Логистика - Отсек утилизаторов
-holopad-logistics-breakroom = Логистика - Комната отдыха
-holopad-logistics-ats = Логистика - АТС
-holopad-logistics-shuttle = Логистика - Грузовой шаттл
+# Logistics - Снабжение (Карго)
+holopad-logistics-front = Снабжение - Стойка заказов
+holopad-logistics-cargo-bay = Снабжение - Грузовой отсек
+holodpad-logistics-mailroom = Снабжение - Почта
+holodpad-logistics-mailfront = Снабжение - Приём почты
+holopad-logistics-salvage-bay = Снабжение - Отсек утилизаторов
+holopad-logistics-breakroom = Снабжение - Комната отдыха
+holopad-logistics-ats = Снабжение - АТС
+holopad-logistics-shuttle = Снабжение - Грузовой шаттл
 # Justice - Правосудие (Юристы)
 holopad-justice-prosecutor = Правосудие - Прокурор
 holopad-justice-attorney = Правосудие - Адвокат
-holopad-justice-clerk = Правосудие - Клерк
+holopad-justice-clerk = Правосудие - Судья
 # Security - Служба безопасности
-holopad-security-corpsman = СБ - Полевой медик
+holopad-security-corpsman = СБ - БригМедик
 # General - Общие зоны
 holopad-general-park = Общее - Парк
 holopad-general-nitrogen-lounge = Общее - Лаундж «Нитроген»

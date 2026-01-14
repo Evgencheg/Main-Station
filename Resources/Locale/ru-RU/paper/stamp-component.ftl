@@ -19,5 +19,5 @@ stamp-component-stamped-name-syndicate = Синдикат
 stamp-component-stamped-name-ce = Старший инженер
 stamp-component-stamped-name-greytide = Грейтайд
 stamp-component-stamped-name-psychologist = Психолог
-stamp-component-stamped-name-nanorep = Представитель NanoTrasen
+stamp-component-stamped-name-nanorep = Корпоративный Агент
 stamp-component-stamped-name-magistrate = Магистрат

@@ -121,33 +121,33 @@ character-item-group-LoadoutAtmosphericTechnicianOuter = Верхняя одеж
 character-item-group-LoadoutAtmosphericTechnicianShoes = Обувь атм. техника
 character-item-group-LoadoutAtmosphericTechnicianUniforms = Униформа атм. техника
 # Инженерный отдел - Ведущий инженер
-character-item-group-LoadoutChiefEngineerBackpacks = Рюкзак ведущий инженер
-character-item-group-LoadoutChiefEngineerBelt = Пояс ведущий инженер
-character-item-group-LoadoutChiefEngineerEars = Гарнитура ведущий инженер
-character-item-group-LoadoutChiefEngineerEquipment = Снаряжение ведущий инженер
-character-item-group-LoadoutChiefEngineerEyes = Очки ведущий инженер
-character-item-group-LoadoutChiefEngineerGloves = Перчатки ведущий инженер
-character-item-group-LoadoutChiefEngineerHead = гарнитура ведущий инженер
-character-item-group-LoadoutChiefEngineerId = ID-карта ведущий инженер
-character-item-group-LoadoutChiefEngineerNeck = Шейные аксессуары ведущий инженер
-character-item-group-LoadoutChiefEngineerMask = Маски ведущий инженер
-character-item-group-LoadoutChiefEngineerOuter = Верхняя одежда ведущий инженер
-character-item-group-LoadoutChiefEngineerShoes = Обувь ведущий инженер
-character-item-group-LoadoutChiefEngineerUniforms = Униформа ведущий инженер
+character-item-group-LoadoutChiefEngineerBackpacks = Рюкзак Старшего Инженера
+character-item-group-LoadoutChiefEngineerBelt = Пояс Старшего Инженера
+character-item-group-LoadoutChiefEngineerEars = Гарнитура Старшего Инженера
+character-item-group-LoadoutChiefEngineerEquipment = Снаряжение Старшего Инженера
+character-item-group-LoadoutChiefEngineerEyes = Очки Старшего Инженера
+character-item-group-LoadoutChiefEngineerGloves = Перчатки Старшего Инженера
+character-item-group-LoadoutChiefEngineerHead = гарнитура Старшего Инженера
+character-item-group-LoadoutChiefEngineerId = ID-карта Старшего Инженера
+character-item-group-LoadoutChiefEngineerNeck = Шейные аксессуары Старшего Инженера
+character-item-group-LoadoutChiefEngineerMask = Маски Старшего Инженера
+character-item-group-LoadoutChiefEngineerOuter = Верхняя одежда Старшего Инженера
+character-item-group-LoadoutChiefEngineerShoes = Обувь Старшего Инженера
+character-item-group-LoadoutChiefEngineerUniforms = Униформа Старшего Инженера
 # Инженерный отдел - Старший инженер
-character-item-group-LoadoutSeniorEngineerBackpacks = Рюкзак старшего инженера
-character-item-group-LoadoutSeniorEngineerBelt = Пояс старшего инженера
-character-item-group-LoadoutSeniorEngineerEars = Гарнитура старшего инженера
-character-item-group-LoadoutSeniorEngineerEquipment = Снаряжение старшего инженера
-character-item-group-LoadoutSeniorEngineerEyes = Очки старшего инженера
-character-item-group-LoadoutSeniorEngineerGloves = Перчатки старшего инженера
-character-item-group-LoadoutSeniorEngineerHead = гарнитура старшего инженера
-character-item-group-LoadoutSeniorEngineerId = ID-карта старшего инженера
-character-item-group-LoadoutSeniorEngineerNeck = Шейные аксессуары старшего инженера
-character-item-group-LoadoutSeniorEngineerMask = Маски старшего инженера
-character-item-group-LoadoutSeniorEngineerOuter = Верхняя одежда старшего инженера
-character-item-group-LoadoutSeniorEngineerShoes = Обувь старшего инженера
-character-item-group-LoadoutSeniorEngineerUniforms = Униформа старшего инженера
+character-item-group-LoadoutSeniorEngineerBackpacks = Рюкзак ведущего инженера
+character-item-group-LoadoutSeniorEngineerBelt = Пояс ведущего инженера
+character-item-group-LoadoutSeniorEngineerEars = Гарнитура ведущего инженера
+character-item-group-LoadoutSeniorEngineerEquipment = Снаряжение ведущего инженера
+character-item-group-LoadoutSeniorEngineerEyes = Очки ведущего инженера
+character-item-group-LoadoutSeniorEngineerGloves = Перчатки ведущего инженера
+character-item-group-LoadoutSeniorEngineerHead = гарнитура ведущего инженера
+character-item-group-LoadoutSeniorEngineerId = ID-карта ведущего инженера
+character-item-group-LoadoutSeniorEngineerNeck = Шейные аксессуары ведущего инженера
+character-item-group-LoadoutSeniorEngineerMask = Маски ведущего инженера
+character-item-group-LoadoutSeniorEngineerOuter = Верхняя одежда ведущего инженера
+character-item-group-LoadoutSeniorEngineerShoes = Обувь ведущего инженера
+character-item-group-LoadoutSeniorEngineerUniforms = Униформа ведущего инженера
 # Инженерный отдел - Инженер станции
 character-item-group-LoadoutStationEngineerBackpacks = Рюкзак инженера
 character-item-group-LoadoutStationEngineerBelt = Пояс инженера
@@ -176,21 +176,21 @@ character-item-group-LoadoutTechnicalAssistantMask = Маски тех. асси
 character-item-group-LoadoutTechnicalAssistantOuter = Верхняя одежда тех. ассистента
 character-item-group-LoadoutTechnicalAssistantShoes = Обувь тех. ассистента
 character-item-group-LoadoutTechnicalAssistantUniforms = Униформа тех. ассистента
-# Эпистемика (Общее)
-character-item-group-LoadoutEpistemicsBackpacks = Рюкзак Научного Руководителя
-character-item-group-LoadoutEpistemicsBelt = пояс Научного Руководителя
-character-item-group-LoadoutEpistemicsEars = гарнитура Научного Руководителя
-character-item-group-LoadoutEpistemicsEquipment = снаряжение Научного Руководителя
-character-item-group-LoadoutEpistemicsEyes = очки Научного Руководителя
-character-item-group-LoadoutEpistemicsGloves = перчатки Научного Руководителя
-character-item-group-LoadoutEpistemicsHead = головной убор Научного Руководителя
-character-item-group-LoadoutEpistemicsId = ID-карты Научного Руководителя
-character-item-group-LoadoutEpistemicsNeck = шейные аксессуары Научного Руководителя
-character-item-group-LoadoutEpistemicsMask = маски Научного Руководителя
-character-item-group-LoadoutEpistemicsOuter = верхняя одежда Научного Руководителя
-character-item-group-LoadoutEpistemicsShoes = обувь Научного Руководителя
-character-item-group-LoadoutEpistemicsUniforms = униформа Научного Руководителя
-# Эпистемика - Аколит
+# Научный отдел (Общее)
+character-item-group-LoadoutEpistemicsBackpacks = Рюкзак научного отдела
+character-item-group-LoadoutEpistemicsBelt = пояс научного отдела
+character-item-group-LoadoutEpistemicsEars = гарнитура научного отдела
+character-item-group-LoadoutEpistemicsEquipment = снаряжение научного отдела
+character-item-group-LoadoutEpistemicsEyes = очки научного отдела
+character-item-group-LoadoutEpistemicsGloves = перчатки научного отдела
+character-item-group-LoadoutEpistemicsHead = головной убор научного отдела
+character-item-group-LoadoutEpistemicsId = ID-карты научного отдела
+character-item-group-LoadoutEpistemicsNeck = шейные аксессуары научного отдела
+character-item-group-LoadoutEpistemicsMask = маски научного отдела
+character-item-group-LoadoutEpistemicsOuter = верхняя одежда научного отдела
+character-item-group-LoadoutEpistemicsShoes = обувь научного отдела
+character-item-group-LoadoutEpistemicsUniforms = униформа научного отдела
+# Научный отдел - Священник
 character-item-group-LoadoutAcolyteBackpacks = Рюкзак ученого
 character-item-group-LoadoutAcolyteBelt = Пояс ученого
 character-item-group-LoadoutAcolyteEars = Гарнитура ученого
@@ -204,7 +204,7 @@ character-item-group-LoadoutAcolyteMask = Маски ученого
 character-item-group-LoadoutAcolyteOuter = Верхняя одежда ученого
 character-item-group-LoadoutAcolyteShoes = Обувь ученого
 character-item-group-LoadoutAcolyteUniforms = Униформа ученого
-# Эпистемика - Библиотекарь
+# Научный отдел - Библиотекарь
 character-item-group-LoadoutCatalogerBackpacks = Рюкзак библиотекаря
 character-item-group-LoadoutCatalogerBelt = Пояс библиотекаря
 character-item-group-LoadoutCatalogerEars = Гарнитура библиотекаря
@@ -218,7 +218,7 @@ character-item-group-LoadoutCatalogerMask = Маски библиотекаря
 character-item-group-LoadoutCatalogerOuter = Верхняя одежда библиотекаря
 character-item-group-LoadoutCatalogerShoes = Обувь библиотекаря
 character-item-group-LoadoutCatalogerUniforms = Униформа библиотекаря
-# Эпистемика - Священник
+# Научный отдел - Священник
 character-item-group-LoadoutChaplainBackpacks = Рюкзак священника
 character-item-group-LoadoutChaplainBelt = Пояс священника
 character-item-group-LoadoutChaplainEars = Гарнитура священника
@@ -232,7 +232,7 @@ character-item-group-LoadoutChaplainMask = Маски священника
 character-item-group-LoadoutChaplainOuter = Верхняя одежда священника
 character-item-group-LoadoutChaplainShoes = Обувь священника
 character-item-group-LoadoutChaplainUniforms = Униформа священника
-# Эпистемика - Робототехник
+# Научный отдел - Робототехник
 character-item-group-LoadoutGolemancerBackpacks = Рюкзак робототехника
 character-item-group-LoadoutGolemancerBelt = Пояс робототехника
 character-item-group-LoadoutGolemancerEars = Гарнитура робототехника
@@ -246,21 +246,21 @@ character-item-group-LoadoutGolemancerMask = Маски робототехник
 character-item-group-LoadoutGolemancerOuter = Верхняя одежда робототехника
 character-item-group-LoadoutGolemancerShoes = Обувь робототехника
 character-item-group-LoadoutGolemancerUniforms = Униформа робототехника
-# Эпистемика - Мистагог
-character-item-group-LoadoutMystagogueBackpacks = Рюкзак мистагога
-character-item-group-LoadoutMystagogueBelt = Пояс мистагога
-character-item-group-LoadoutMystagogueEars = Гарнитура мистагога
-character-item-group-LoadoutMystagogueEquipment = Снаряжение мистагога
-character-item-group-LoadoutMystagogueEyes = Очки мистагога
-character-item-group-LoadoutMystagogueGloves = Перчатки мистагога
-character-item-group-LoadoutMystagogueHead = гарнитура мистагога
-character-item-group-LoadoutMystagogueId = ID-карта мистагога
-character-item-group-LoadoutMystagogueNeck = Шейные аксессуары мистагога
-character-item-group-LoadoutMystagogueMask = Маски мистагога
-character-item-group-LoadoutMystagogueOuter = Верхняя одежда мистагога
-character-item-group-LoadoutMystagogueShoes = Обувь мистагога
-character-item-group-LoadoutMystagogueUniforms = Униформа мистагога
-# Эпистемика - Мистик
+# Научный отдел - Научный Руководитель
+character-item-group-LoadoutMystagogueBackpacks = Рюкзак научного руководителя
+character-item-group-LoadoutMystagogueBelt = Пояс научного руководителя
+character-item-group-LoadoutMystagogueEars = Гарнитура научного руководителя
+character-item-group-LoadoutMystagogueEquipment = Снаряжение научного руководителя
+character-item-group-LoadoutMystagogueEyes = Очки научного руководителя
+character-item-group-LoadoutMystagogueGloves = Перчатки научного руководителя
+character-item-group-LoadoutMystagogueHead = гарнитура научного руководителя
+character-item-group-LoadoutMystagogueId = ID-карта научного руководителя
+character-item-group-LoadoutMystagogueNeck = Шейные аксессуары научного руководителя
+character-item-group-LoadoutMystagogueMask = Маски научного руководителя
+character-item-group-LoadoutMystagogueOuter = Верхняя одежда научного руководителя
+character-item-group-LoadoutMystagogueShoes = Обувь научного руководителя
+character-item-group-LoadoutMystagogueUniforms = Униформа научного руководителя
+# Научный отдел - Мистик
 character-item-group-LoadoutMysticBackpacks = Рюкзак библиотекаря
 character-item-group-LoadoutMysticBelt = Пояс библиотекаря
 character-item-group-LoadoutMysticEars = Гарнитура библиотекаря
@@ -274,7 +274,7 @@ character-item-group-LoadoutMysticMask = Маски библиотекаря
 character-item-group-LoadoutMysticOuter = Верхняя одежда библиотекаря
 character-item-group-LoadoutMysticShoes = Обувь библиотекаря
 character-item-group-LoadoutMysticUniforms = Униформа библиотекаря
-# Эпистемика - Научный ассистент
+# Научный отдел - Научный ассистент
 character-item-group-LoadoutNoviciateBackpacks = Рюкзак научного ассистента
 character-item-group-LoadoutNoviciateBelt = Пояс научного ассистента
 character-item-group-LoadoutNoviciateEars = Гарнитура научного ассистента
@@ -288,7 +288,7 @@ character-item-group-LoadoutNoviciateMask = Маски научного асси
 character-item-group-LoadoutNoviciateOuter = Верхняя одежда научного ассистента
 character-item-group-LoadoutNoviciateShoes = Обувь научного ассистента
 character-item-group-LoadoutNoviciateUniforms = Униформа научного ассистента
-# Эпистемика - Псионический богомол
+# Научный отдел - Мантис
 character-item-group-LoadoutPsionicMantisBackpacks = Рюкзак мантиса
 character-item-group-LoadoutPsionicMantisBelt = Пояс мантиса
 character-item-group-LoadoutPsionicMantisEars = Гарнитура мантиса
@@ -302,21 +302,21 @@ character-item-group-LoadoutPsionicMantisMask = Маски мантиса
 character-item-group-LoadoutPsionicMantisOuter = Верхняя одежда мантиса
 character-item-group-LoadoutPsionicMantisShoes = Обувь мантиса
 character-item-group-LoadoutPsionicMantisUniforms = Униформа мантиса
-# Логистика (Общее)
-character-item-group-LoadoutLogisticsBackpacks = Логистические Рюкзак
-character-item-group-LoadoutLogisticsBelt = Логистический пояс
-character-item-group-LoadoutLogisticsEars = Логистическая гарнитура
-character-item-group-LoadoutLogisticsEquipment = Логистическое снаряжение
-character-item-group-LoadoutLogisticsEyes = Логистические очки
-character-item-group-LoadoutLogisticsGloves = Логистические перчатки
-character-item-group-LoadoutLogisticsHead = Логистические гарнитура
-character-item-group-LoadoutLogisticsId = Логистические ID-карты
-character-item-group-LoadoutLogisticsNeck = Логистические шейные аксессуары
-character-item-group-LoadoutLogisticsMask = Логистические маски
-character-item-group-LoadoutLogisticsOuter = Логистическая верхняя одежда
-character-item-group-LoadoutLogisticsShoes = Логистическая обувь
-character-item-group-LoadoutLogisticsUniforms = Логистическая униформа
-# Логистика - Грузчик
+# Снабжение (Общее)
+character-item-group-LoadoutLogisticsBackpacks = Рюкзак Снабжения
+character-item-group-LoadoutLogisticsBelt = Пояс Снабжения
+character-item-group-LoadoutLogisticsEars = Гарнитура Снабжения
+character-item-group-LoadoutLogisticsEquipment = Снаряжение Снабжения
+character-item-group-LoadoutLogisticsEyes = Очки Снабжения
+character-item-group-LoadoutLogisticsGloves = Перчатки Снабжения
+character-item-group-LoadoutLogisticsHead = Гарнитура Снабжения
+character-item-group-LoadoutLogisticsId = ID-карты Снабжения
+character-item-group-LoadoutLogisticsNeck = Шейные аксессуары Снабжения
+character-item-group-LoadoutLogisticsMask = Маски Снабжения
+character-item-group-LoadoutLogisticsOuter = Верхняя одежда Снабжения
+character-item-group-LoadoutLogisticsShoes = Обувь Снабжения
+character-item-group-LoadoutLogisticsUniforms = Униформа Снабжения
+# Снабжение - Грузчик
 character-item-group-LoadoutCargoTechnicianBackpacks = Рюкзак грузчика
 character-item-group-LoadoutCargoTechnicianBelt = Пояс грузчика
 character-item-group-LoadoutCargoTechnicianEars = Гарнитура грузчика
@@ -330,7 +330,7 @@ character-item-group-LoadoutCargoTechnicianMask = Маски грузчика
 character-item-group-LoadoutCargoTechnicianOuter = Верхняя одежда грузчика
 character-item-group-LoadoutCargoTechnicianShoes = Обувь грузчика
 character-item-group-LoadoutCargoTechnicianUniforms = Униформа грузчика
-# Логистика - Курьер
+# Снабжение - Курьер
 character-item-group-LoadoutCourierBackpacks = Рюкзак курьера
 character-item-group-LoadoutCourierBelt = Пояс курьера
 character-item-group-LoadoutCourierEars = Гарнитура курьера
@@ -344,21 +344,21 @@ character-item-group-LoadoutCourierMask = Маски курьера
 character-item-group-LoadoutCourierOuter = Верхняя одежда курьера
 character-item-group-LoadoutCourierShoes = Обувь курьера
 character-item-group-LoadoutCourierUniforms = Униформа курьера
-# Логистика - Офицер логистики
-character-item-group-LoadoutLogisticsOfficerBackpacks = Рюкзак офицера логистики
-character-item-group-LoadoutLogisticsOfficerBelt = Пояс офицера логистики
-character-item-group-LoadoutLogisticsOfficerEars = Гарнитура офицера логистики
-character-item-group-LoadoutLogisticsOfficerEquipment = Снаряжение офицера логистики
-character-item-group-LoadoutLogisticsOfficerEyes = Очки офицера логистики
-character-item-group-LoadoutLogisticsOfficerGloves = Перчатки офицера логистики
-character-item-group-LoadoutLogisticsOfficerHead = гарнитура офицера логистики
-character-item-group-LoadoutLogisticsOfficerId = ID-карта офицера логистики
-character-item-group-LoadoutLogisticsOfficerNeck = Шейные аксессуары офицера логистики
-character-item-group-LoadoutLogisticsOfficerMask = Маски офицера логистики
-character-item-group-LoadoutLogisticsOfficerOuter = Верхняя одежда офицера логистики
-character-item-group-LoadoutLogisticsOfficerShoes = Обувь офицера логистики
-character-item-group-LoadoutLogisticsOfficerUniforms = Униформа офицера логистики
-# Логистика - Утилизатор
+# Снабжение - Квартирмейстер
+character-item-group-LoadoutLogisticsOfficerBackpacks = Рюкзак квартирмейстера
+character-item-group-LoadoutLogisticsOfficerBelt = Пояс квартирмейстера
+character-item-group-LoadoutLogisticsOfficerEars = Гарнитура квартирмейстера
+character-item-group-LoadoutLogisticsOfficerEquipment = Снаряжение квартирмейстера
+character-item-group-LoadoutLogisticsOfficerEyes = Очки квартирмейстера
+character-item-group-LoadoutLogisticsOfficerGloves = Перчатки квартирмейстера
+character-item-group-LoadoutLogisticsOfficerHead = гарнитура квартирмейстера
+character-item-group-LoadoutLogisticsOfficerId = ID-карта квартирмейстера
+character-item-group-LoadoutLogisticsOfficerNeck = Шейные аксессуары квартирмейстера
+character-item-group-LoadoutLogisticsOfficerMask = Маски квартирмейстера
+character-item-group-LoadoutLogisticsOfficerOuter = Верхняя одежда квартирмейстера
+character-item-group-LoadoutLogisticsOfficerShoes = Обувь квартирмейстера
+character-item-group-LoadoutLogisticsOfficerUniforms = Униформа квартирмейстера
+# Снабжение - Утилизатор
 character-item-group-LoadoutSalvageSpecialistBackpacks = Рюкзак утилизатора
 character-item-group-LoadoutSalvageSpecialistBelt = Пояс утилизатора
 character-item-group-LoadoutSalvageSpecialistEars = Гарнитура утилизатора
@@ -572,20 +572,20 @@ character-item-group-LoadoutSecurityOfficerMask = Маски офицера СБ
 character-item-group-LoadoutSecurityOfficerOuter = Верхняя одежда офицера СБ
 character-item-group-LoadoutSecurityOfficerShoes = Обувь офицера СБ
 character-item-group-LoadoutSecurityOfficerUniforms = Униформа офицера СБ
-# Служба безопасности - Старший офицер СБ
-character-item-group-LoadoutSeniorOfficerBackpacks = Рюкзак старшего офицера СБ
-character-item-group-LoadoutSeniorOfficerBelt = Пояс старшего офицера СБ
-character-item-group-LoadoutSeniorOfficerEars = Гарнитура старшего офицера СБ
-character-item-group-LoadoutSeniorOfficerEquipment = Снаряжение старшего офицера СБ
-character-item-group-LoadoutSeniorOfficerEyes = Очки старшего офицера СБ
-character-item-group-LoadoutSeniorOfficerGloves = Перчатки старшего офицера СБ
-character-item-group-LoadoutSeniorOfficerHead = гарнитура старшего офицера СБ
-character-item-group-LoadoutSeniorOfficerId = ID-карта старшего офицера СБ
-character-item-group-LoadoutSeniorOfficerNeck = Шейные аксессуары старшего офицера СБ
-character-item-group-LoadoutSeniorOfficerMask = Маски старшего офицера СБ
-character-item-group-LoadoutSeniorOfficerOuter = Верхняя одежда старшего офицера СБ
-character-item-group-LoadoutSeniorOfficerShoes = Обувь старшего офицера СБ
-character-item-group-LoadoutSeniorOfficerUniforms = Униформа старшего офицера СБ
+# Служба безопасности - Инструктор СБ
+character-item-group-LoadoutSeniorOfficerBackpacks = Рюкзак инструктора СБ
+character-item-group-LoadoutSeniorOfficerBelt = Пояс инструктора СБ
+character-item-group-LoadoutSeniorOfficerEars = Гарнитура инструктора СБ
+character-item-group-LoadoutSeniorOfficerEquipment = Снаряжение инструктора СБ
+character-item-group-LoadoutSeniorOfficerEyes = Очки инструктора СБ
+character-item-group-LoadoutSeniorOfficerGloves = Перчатки инструктора СБ
+character-item-group-LoadoutSeniorOfficerHead = гарнитура инструктора СБ
+character-item-group-LoadoutSeniorOfficerId = ID-карта инструктора СБ
+character-item-group-LoadoutSeniorOfficerNeck = Шейные аксессуары инструктора СБ
+character-item-group-LoadoutSeniorOfficerMask = Маски инструктора СБ
+character-item-group-LoadoutSeniorOfficerOuter = Верхняя одежда инструктора СБ
+character-item-group-LoadoutSeniorOfficerShoes = Обувь инструктора СБ
+character-item-group-LoadoutSeniorOfficerUniforms = Униформа инструктора СБ
 # Служба безопасности - Смотритель
 character-item-group-LoadoutWardenBackpacks = Рюкзак смотрителя
 character-item-group-LoadoutWardenBelt = Пояс смотрителя

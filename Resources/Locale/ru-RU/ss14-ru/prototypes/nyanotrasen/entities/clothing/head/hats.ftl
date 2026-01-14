@@ -1,6 +1,6 @@
 ent-ClothingHeadMailCarrier = шляпа почтальона
     .desc = Пахнет хорошей пенсией.
-ent-ClothingHeadHoodMysta = шапочка мистагога
+ent-ClothingHeadHoodMysta = шапочка научного руководителя
     .desc = Несмотря на забавное название, на самом деле символизирует выдающиеся академические достижения.
 ent-ClothingHeadHoodBrown = коричневый капюшон
     .desc = Жуткий.
@@ -26,5 +26,5 @@ ent-ClothingHeadHatBeretCap = берет капитана
     .desc = Синий берет с эмблемой капитанского звания. Для капитанов, склонных больше к стилю, чем к безопасности.
 ent-ClothingHeadHatBeretCentcomm = берет CentCom
     .desc = Зелёный берет с эмблемой адмиральского звания.
-ent-ClothingHeadHatBeretMysta = берет мистагога
+ent-ClothingHeadHatBeretMysta = берет научного руководителя
     .desc = Фиолетовый берет с синим эмблемой эпистемики. Мистический и стильный.

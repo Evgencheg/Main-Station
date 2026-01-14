@@ -143,7 +143,7 @@ trait-description-Mystic = Вы сосредоточены на псионике
 trait-name-Singer = Певец
 trait-description-Singer = Вы обладаете чарующим голосом и можете петь.
 trait-name-TrapAvoider = Чутье на ловушки
-trait-description-TrapAvoider = Вы бессознательно избегаете активации мил, мышеловок и растяжек.
+trait-description-TrapAvoider = Вы бессознательно избегаете активации мин, мышеловок и растяжек.
 trait-name-AnomalousPositronics = Аномальная позитроника
 trait-description-AnomalousPositronics = Ваш позитронный мозг лишён изоляции. Теперь Ноосфера влияет на вас, как на живых.
 trait-name-Photophobia = Фотофобия
@@ -248,23 +248,20 @@ trait-name-BionicLeg = Бионическая нога
 trait-description-BionicLeg = Позволяет игнорировать штрафы к скорости от боли.
 trait-name-Vampirism = Вампиризм
 trait-description-Vampirism = Кровь - ваша единственная пища и лекарство.
-trait-name-SecurityEyesModule = IPC Eye Module: Sechud
-trait-description-SecurityEyesModule = A module installed in IPCs that work for the security department and similar, this module is considered contraband and may be removed if the unit isn't working for the security department.
-trait-name-MedicalEyesModule = IPC Eye Module: Medical
-trait-description-MedicalEyesModule = Your eyes have been upgraded to include a built-in Medical Hud and chemical analyzer, allowing you to track the relative health condition of biological organisms and discern the chemicals in any solution.
-trait-name-DiagnosticEyesModule = IPC Eye Module: Diagnostics
-trait-description-DiagnosticEyesModule = Your eyes have been upgraded to include a built-in Diagnostic Hud and flare shielding, allowing you to track the condition of synthetic entities and providing eye protection against welding arcs.
-trait-name-OmniEyesModule = IPC Eye Module: Premium Model
-trait-description-OmniEyesModule =
-    This upgrade provides the combined benefits of a SecHud, MedHud, and a Diagnostics Module.
-    Note that this module is considered Contraband for anyone not under the employ of station Security personel,
-    and may be disabled by your employer before dispatch to the station.
-trait-name-LightAmplificationModule = IPC Eye Module: Light Amplification
-trait-description-LightAmplificationModule = Your vision has been enhanced with a light amplifier module, enabling the user to toggle between standard sight and "Night Vision" mode.
-trait-name-ThermographicVisionModule = IPC Eye Module: Thermographic Scanner
-trait-description-ThermographicVisionModule =
-    Your vision has been enhanced with a Thermographic Scanner. When enabled, it captures a snapshot of the user's surroundings, while highlighting all
-    biological life forms. It can even detect individuals through the walls of a station.
+trait-name-SecurityEyesModule = Модуль глаз КПБ: СекХуд
+trait-description-SecurityEyesModule = Модуль, устанавливаемый в КПБ, работающих в отделе службы безопасности и аналогичных структурах. Считается контрабандой и может быть изъят, если устройство не состоит на службе в СБ.
+trait-name-MedicalEyesModule = Модуль глаз КПБ: Медицинский
+trait-description-MedicalEyesModule = Ваши сенсоры были модернизированы: встроенный медицинский HUD и химический анализатор позволяют отслеживать состояние здоровья биологических организмов и определять состав любых растворов.
+trait-name-DiagnosticEyesModule = Модуль глаз КПБ: Диагностический
+trait-description-DiagnosticEyesModule = Ваши сенсоры модернизированы диагностическим HUD и защитой от вспышек. Это позволяет отслеживать состояние синтетических объектов и защищает оптику от ослепления при сварочных работах.
+trait-name-OmniEyesModule = Модуль глаз КПБ: Премиум-модель
+trait-description-OmniEyesModule = Эта модификация объединяет в себе преимущества SecHUD, MedHUD и диагностического модуля. Внимание: данный модуль считается контрабандой для всех, кто не является сотрудником службы безопасности, и может быть удалён работодателем перед отправкой на станцию.
+
+trait-name-LightAmplificationModule = Модуль глаз КПБ: Усиление света
+trait-description-LightAmplificationModule = Ваше зрение улучшено модулем усиления света, что позволяет переключаться между стандартным режимом и режимом ПНВ (ночного зрения).
+
+trait-name-ThermographicVisionModule = Модуль глаз КПБ: Тепловизор
+trait-description-ThermographicVisionModule = Ваше зрение дополнено тепловизионным сканером. При включении он подсвечивает все биологические формы жизни в поле зрения. Сканер способен обнаруживать живых существ даже сквозь стены станции.
 trait-name-MothFlight = Полет моли
 trait-description-MothFlight = Позволяет летать при гравитации, расходуя выносливость.
 trait-name-Featherweight = Легковес

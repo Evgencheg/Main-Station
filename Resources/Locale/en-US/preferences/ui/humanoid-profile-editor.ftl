@@ -1,7 +1,8 @@
 humanoid-profile-editor-randomize-everything-button = Randomize everything
 humanoid-profile-editor-name-label = Name:
+humanoid-profile-editor-customspeciesname-label = Race name:
 humanoid-profile-editor-name-random-button = Randomize
-humanoid-profile-editor-cybrog-name-label = Borg name:
+humanoid-profile-editor-cyborg-name-label = Имя Борга:
 humanoid-profile-editor-station-ai-name-label = Station AI name:
 humanoid-profile-editor-appearance-tab = Appearance
 humanoid-profile-editor-background-tab = Background

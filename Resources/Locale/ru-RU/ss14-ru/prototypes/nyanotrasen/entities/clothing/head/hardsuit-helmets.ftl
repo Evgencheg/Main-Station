@@ -1,4 +1,4 @@
-ent-ClothingHeadHelmetHardsuitMystagogue = шлем скафандра мистагога
+ent-ClothingHeadHelmetHardsuitMystagogue = шлем скафандра научного руководителя
     .desc = Лёгкий шлем скафандра с передовой галактической системой передачи псионических сигналов.
 ent-ClothingHeadHelmetHardsuitSyndieReverseEngineered = боевой шлем скафандра SA-122
     .desc = Продвинутый шлем скафандра, предназначенный для работы в специальных операциях.

@@ -5,7 +5,7 @@ roundend-prepend-devil-contracts-named = [color=white]{ $name }[/color] закл
 devil-component-examined = [color=darkred]Глаза { CAPITALIZE(POSS-ADJ($target)) } сияют слабым кровавым светом.[/color]
 condemned-component-examined = [color=chartreuse]Взгляд { CAPITALIZE($target) } пуст и лишён души.[/color]
 devil-role-greeting =
-    Ты - шайтан, восставший из глубин преисподней,
+    Ты - дьявол, восставший из глубин преисподней,
     вселившийся в тело смертного по имени { $playerName }.
     Развращай живых и собирай души через сделки, скреплённые кровью и обещаниями.
     Не трать себя на дела, не связанные с контрактами - это ниже твоего инфернального достоинства.

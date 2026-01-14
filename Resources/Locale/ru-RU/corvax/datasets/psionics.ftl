@@ -6,6 +6,6 @@ psionics-records-placeholders-5 = Взял капитана под контро�
 psionics-records-placeholders-6 = Разозлил Оракула
 psionics-records-placeholders-7 = Стал псиоником
 psionics-records-placeholders-8 = Узурпировал трон
-psionics-records-placeholders-9 = Поменял Богомола телами с ботинком
+psionics-records-placeholders-9 = Поменял Мантиса телами с ботинком
 psionics-records-placeholders-10 = Нарисовал человечков-палочек в Библии священника
 psionics-records-placeholders-11 = Воскресил таракана

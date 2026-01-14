@@ -1,5 +1,5 @@
-ent-SignDirectionalLogistics = указатель логистики
-    .desc = Указатель, показывающий направление к отделу логистики.
+ent-SignDirectionalLogistics = указатель снабжения
+    .desc = Указатель, показывающий направление к отделу снабжения.
 ent-SignDirectionalMail = указатель почты
     .desc = Указатель, показывающий направление к почтовому отделению.
 ent-SignDirectionalJustice = указатель отдела юстиции

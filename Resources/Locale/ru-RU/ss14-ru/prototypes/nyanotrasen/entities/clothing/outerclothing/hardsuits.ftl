@@ -1,4 +1,4 @@
-ent-ClothingOuterHardsuitMystagogue = скафандр мистагога
+ent-ClothingOuterHardsuitMystagogue = скафандр научного руководителя
     .desc = Лёгкий скафандр с шлемом, оснащённым передовой галактической системой псионической передачи.
 ent-ClothingOuterHardsuitSyndieReverseEngineered = боевой скафандр SA-122
     .suffix = реверс-инжиниринг

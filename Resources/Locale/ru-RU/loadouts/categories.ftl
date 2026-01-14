@@ -23,27 +23,27 @@ loadout-category-JobsCommandMagistrate = Магистрат
 loadout-category-JobsEngineering = Инженерный отдел
 loadout-category-JobsEngineeringAAUncategorized = Все инженеры
 loadout-category-JobsEngineeringAtmosphericTechnician = Атмосферный техник
-loadout-category-JobsEngineeringChiefEngineer = Главный инженер
-loadout-category-JobsEngineeringSeniorEngineer = Старший инженер
-loadout-category-JobsEngineeringStationEngineer = Инженер станции
+loadout-category-JobsEngineeringChiefEngineer = Старший инженер
+loadout-category-JobsEngineeringSeniorEngineer = Ведущий инженер
+loadout-category-JobsEngineeringStationEngineer = Инженер
 loadout-category-JobsEngineeringTechnicalAssistant = Технический ассистент
-# Эпистемика / Наука (Epistemics)
-loadout-category-JobsEpistemics = Эпистемика
-loadout-category-JobsEpistemicsAAUncategorized = Все эпистемологи
-loadout-category-JobsEpistemicsAcolyte = Аколит
-loadout-category-JobsEpistemicsCataloger = Каталогизатор
+# Научный отдел / Наука (Epistemics)
+loadout-category-JobsEpistemics = Научный отдел
+loadout-category-JobsEpistemicsAAUncategorized = Весь НИО
+loadout-category-JobsEpistemicsAcolyte = Ученый
+loadout-category-JobsEpistemicsCataloger = Библиотекарь
 loadout-category-JobsEpistemicsChaplain = Священник
-loadout-category-JobsEpistemicsGolemancer = Големант
-loadout-category-JobsEpistemicsMystagogue = Мистагог
-loadout-category-JobsEpistemicsMystic = Мистик
-loadout-category-JobsEpistemicsNoviciate = Новициат
-loadout-category-JobsEpistemicsPsionicMantis = Псионический богомол
-# Логистика и снабжение (Logistics)
-loadout-category-JobsLogistics = Логистика
-loadout-category-JobsLogisticsAUncategorized = Вся логистика
+loadout-category-JobsEpistemicsGolemancer = Робототехник
+loadout-category-JobsEpistemicsMystagogue = Научный Руководитель
+loadout-category-JobsEpistemicsMystic = Ведущий Ученый
+loadout-category-JobsEpistemicsNoviciate = Научный Ассистент
+loadout-category-JobsEpistemicsPsionicMantis = Мантис
+# Снабжение и снабжение (Logistics)
+loadout-category-JobsLogistics = Снабжение
+loadout-category-JobsLogisticsAUncategorized = Всё снабжение
 loadout-category-JobsLogisticsCargoTechnician = Грузчик
 loadout-category-JobsLogisticsCourier = Курьер
-loadout-category-JobsLogisticsLogisticsOfficer = Офицер логистики
+loadout-category-JobsLogisticsLogisticsOfficer = Квартирмейстер
 loadout-category-JobsLogisticsSalvageSpecialist = Утилизатор
 # Медицинский отдел (Medical)
 loadout-category-JobsMedical = Медицинский отдел
@@ -60,11 +60,11 @@ loadout-category-JobsSecurity = Служба безопасности
 loadout-category-JobsSecurityWeapons = Табельное оружие
 loadout-category-JobsSecurityAUncategorized = Вся безопасность
 loadout-category-JobsSecurityCadet = Кадет СБ
-loadout-category-JobsSecurityCorpsman = Полевой медик СБ
+loadout-category-JobsSecurityCorpsman = БригМедик СБ
 loadout-category-JobsSecurityDetective = Детектив
 loadout-category-JobsSecurityHeadOfSecurity = Глава службы безопасности
 loadout-category-JobsSecuritySecurityOfficer = Офицер СБ
-loadout-category-JobsSecuritySeniorOfficer = Старший офицер
+loadout-category-JobsSecuritySeniorOfficer = Инструктор СБ
 loadout-category-JobsSecurityWarden = Смотритель
 # Сервисный отдел (Service)
 loadout-category-JobsService = Сервисный отдел
