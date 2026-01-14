@@ -1,6 +1,6 @@
-ent-ClothingHeadHatHijabColorable = hijab
-    .desc = Encompassing cloth headwear worn by some human cultures and religions.
-ent-ClothingHeadHatTurbanColorable = turban
-    .desc = A sturdy cloth, worn around the head.
-ent-ClothingHeadHatKippahColorable = kippah
-    .desc = A head covering commonly worn by those of Jewish faith.
+ent-ClothingHeadHatHijabColorable = хиджаб
+    .desc = Тканевый головной убор, который носят представители некоторых человеческих культур и религий.
+ent-ClothingHeadHatTurbanColorable = тюрбан
+    .desc = Прочная ткань, надеваемая на голову.
+ent-ClothingHeadHatKippahColorable = кипа
+    .desc = Головной убор, который обычно носят представители иудейской веры.

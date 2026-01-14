@@ -1,6 +1,6 @@
 ent-ClothingHeadBandBase = { ent-ClothingHeadBaseButcherable }
     .desc = { ent-ClothingHeadBaseButcherable.desc }
-ent-ClothingHeadBandWhite = bandana
+ent-ClothingHeadBandWhite = бандана
     .desc = { ent-ClothingHeadBandBase.desc }
 ent-ClothingHeadBandBlack = чёрная бандана
     .desc = { ent-ClothingHeadBandBase.desc }
