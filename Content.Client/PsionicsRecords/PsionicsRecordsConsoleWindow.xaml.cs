@@ -1,6 +1,7 @@
 using Content.Client.UserInterface.Controls;
 using Content.Shared.Access.Systems;
 using Content.Shared.Administration;
+using Content.Shared.Random.Helpers; // LP edit
 using Content.Shared.PsionicsRecords;
 using Content.Shared.Dataset;
 using Content.Shared.Psionics;
@@ -231,7 +232,7 @@ public sealed partial class PsionicsRecordsConsoleWindow : FancyWindow
         var field = "reason";
         var title = Loc.GetString("psionics-records-status-" + status.ToString().ToLower());
         var placeholders = _proto.Index<DatasetPrototype>(ReasonPlaceholders);
-        var placeholder = Loc.GetString("psionics-records-console-reason-placeholder", ("placeholder", _random.Pick(placeholders.Values))); // just funny it doesn't actually get used
+        var placeholder = Loc.GetString("psionics-records-console-reason-placeholder", ("placeholder", Loc.GetString(_random.Pick(placeholders)))); // just funny it doesn't actually get used // LP edit
         var prompt = Loc.GetString("psionics-records-console-reason");
         var entry = new QuickDialogEntry(field, QuickDialogEntryType.LongText, prompt, placeholder);
         var entries = new List<QuickDialogEntry>() { entry };

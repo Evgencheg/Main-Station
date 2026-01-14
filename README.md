@@ -2,9 +2,9 @@
 
 ---
 
-Lost Paradise — это форк [Einstein Engines](https://github.com/Simple-Station/Einstein-Engines).
+Lost Paradise - это форк [Einstein Engines](https://github.com/Simple-Station/Einstein-Engines).
 
-Space Station 14 во многом вдохновлена Space Station 13 и работает на [Robust Toolbox](https://github.com/space-wizards/RobustToolbox) — движке собственной разработки, написанном на C#.
+Space Station 14 во многом вдохновлена Space Station 13 и работает на [Robust Toolbox](https://github.com/space-wizards/RobustToolbox) - движке собственной разработки, написанном на C#.
 
 ## Ссылки
 
@@ -13,7 +13,7 @@ Space Station 14 во многом вдохновлена Space Station 13 и р
 ## Участие в разработке
 
 Мы рады любой помощи! Если вы хотите внести свой вклад, заходите в наш Discord.
-У нас есть [список задач](https://github.com/Lost-Paradise-Project/Main-Station/issues), требующих выполнения — любой желающий может взять их в работу. И не стесняйтесь просить помощи в Discord, если она вам понадобится!
+У нас есть [список задач](https://github.com/Lost-Paradise-Project/Main-Station/issues), требующих выполнения - любой желающий может взять их в работу. И не стесняйтесь просить помощи в Discord, если она вам понадобится!
 
 В данный момент мы принимаем переводы игры в нашем основном репозитории.
 Если вы хотите перевести игру на другой язык, загляните в канал #contributor-general в нашем Discord.

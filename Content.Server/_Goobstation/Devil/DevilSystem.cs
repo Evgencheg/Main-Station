@@ -5,6 +5,7 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
 using System.Text.RegularExpressions;
+using Content.Shared.Random.Helpers; // LP edit
 using Content.Server._Goobstation.Devil.Condemned;
 using Content.Server._Goobstation.Devil.Contract;
 using Content.Server._Goobstation.Devil.Objectives.Components;
@@ -281,7 +282,7 @@ public sealed partial class DevilSystem : EntitySystem
         var firstNameOptions = _prototype.Index(comp.FirstNameTrue);
         var lastNameOptions = _prototype.Index(comp.LastNameTrue);
 
-        comp.TrueName = string.Concat(_random.Pick(firstNameOptions.Values), " ", _random.Pick(lastNameOptions.Values));
+        comp.TrueName = string.Concat(Loc.GetString(_random.Pick(firstNameOptions)), " ", Loc.GetString(_random.Pick(lastNameOptions))); // LP edit
     }
 
     #endregion

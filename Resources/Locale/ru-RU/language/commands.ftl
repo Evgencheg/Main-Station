@@ -6,8 +6,8 @@ command-language-select-desc = Выбрать текущий разговорн�
 command-language-select-help = Использование: { $command } <id языка>. Пример: { $command } 1. Пример: { $command } TauCetiBasic
 command-language-spoken = Разговорные:
 command-language-understood = Понимаемые:
-command-language-current-entry = { $id }. { $language } — { $name } (текущий)
-command-language-entry = { $id }. { $language } — { $name }
+command-language-current-entry = { $id }. { $language } - { $name } (текущий)
+command-language-entry = { $id }. { $language } - { $name }
 command-language-invalid-number = Номер языка должен быть в диапазоне от 0 до { $total }. Либо используйте название языка.
 command-language-invalid-language = Язык { $id } не существует, либо вы не можете на нём говорить.
 

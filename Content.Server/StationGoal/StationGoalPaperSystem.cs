@@ -104,7 +104,7 @@ public sealed class StationGoalPaperSystem : EntitySystem
                     ("date", DateTime.Now.AddYears(1000).ToString("yyyy MMMM dd")),
                     ("station", string.IsNullOrEmpty(stationId) ? "???" : stationId),
                     ("content", goal.Text),
-                    ("name", _random.Pick(signerName.Values))
+                    ("name", Loc.GetString(_random.Pick(signerName))) // LP edit
                 ),
                 Loc.GetString("station-goal-fax-paper-name"),
                 "StationGoalPaper"

@@ -1,5 +1,6 @@
 using Content.Shared.Humanoid.Prototypes;
 using Content.Shared.Dataset;
+using Content.Shared.Random.Helpers; // LP edit
 using Robust.Shared.Random;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Enums;
@@ -58,20 +59,20 @@ namespace Content.Shared.Humanoid
             switch (gender)
             {
                 case Gender.Male:
-                    return _random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.MaleFirstNames).Values); // LP edit
+                    return Loc.GetString(_random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.MaleFirstNames))); // LP edit
                 case Gender.Female:
-                    return _random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.FemaleFirstNames).Values); // LP edit
+                    return Loc.GetString(_random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.FemaleFirstNames))); // LP edit
                 default:
                     if (_random.Prob(0.5f))
-                        return _random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.MaleFirstNames).Values);
+                        return Loc.GetString(_random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.MaleFirstNames)));
                     else
-                        return _random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.FemaleFirstNames).Values); // LP edit
+                        return Loc.GetString(_random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.FemaleFirstNames))); // LP edit
             }
         }
 
         public string GetLastName(SpeciesPrototype speciesProto)
         {
-            return _random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.LastNames).Values); // LP edit
+            return Loc.GetString(_random.Pick(_prototypeManager.Index<LocalizedDatasetPrototype>(speciesProto.LastNames))); // LP edit
         }
     }
 }

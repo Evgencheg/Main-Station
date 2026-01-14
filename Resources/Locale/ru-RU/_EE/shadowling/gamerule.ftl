@@ -5,4 +5,4 @@ shadowling-list-start = Тенелингами были:
 thrall-list-start = Их порабощённые слуги:
 shadowling-list-name = [color=#880808]{ $name }[/color] ([color=gray]{ $user }[/color])
 shadowling-title = Тенелинги
-shadowling-description = Тень — величайший наставник в пути к свету.
+shadowling-description = Тень - величайший наставник в пути к свету.

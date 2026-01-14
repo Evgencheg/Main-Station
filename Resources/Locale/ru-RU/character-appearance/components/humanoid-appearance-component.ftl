@@ -1,6 +1,6 @@
 humanoid-appearance-component-unknown-species = гуманоид
 humanoid-appearance-component-examine =
-    { CAPITALIZE($user) } — { $species }, и { GENDER($user) ->
+    { CAPITALIZE($user) } - { $species }, и { GENDER($user) ->
         [male] ему
         [female] ей
         [epicene] им

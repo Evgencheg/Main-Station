@@ -1,4 +1,4 @@
-# Гарпии — Крылья
+# Гарпии - Крылья
 marking-HarpyWingDefaultHuescale = Базовые крылья (Оттенок)
 marking-HarpyWingDefaultHuescale-huescale_harpy = Крылья
 marking-HarpyWingDefaultWhitescale = Базовые крылья (Белые тона)
@@ -35,12 +35,12 @@ marking-HarpyWingBat-bat_wings_tone_2 = Перепонка
 marking-HarpyWingBionic = Простые бионические крылья (Белые тона)
 marking-HarpyWingBionic-bionic_wings_tone_1 = Крылья
 marking-HarpyWingBionic-bionic_wings_tone_2 = Огни (незатенённые)
-# Гарпии — Уши (перьевые пучки)
+# Гарпии - Уши (перьевые пучки)
 marking-HarpyEarsDefault = Перьевые ушки
 marking-HarpyEarsDefault-harpy_ears_default = Пучки
 marking-HarpyEarsLarge = Большие перьевые ушки
 marking-HarpyEarsLarge-harpy_ears_large = Пучки
-# Гарпии — Хвосты
+# Гарпии - Хвосты
 marking-HarpyTailPhoenix = Базовый хвост
 marking-HarpyTailPhoenix-phoenix_tail = Хвост
 marking-HarpyTailRooster = Петушиный хвост
@@ -61,7 +61,7 @@ marking-HarpyTailForkedLong = Длинный раздвоенный хвост (
 marking-HarpyTailForkedLong-forked_long = Хвост
 marking-HarpyTailSwallow = Ласточкин хвост (Белые тона)
 marking-HarpyTailSwallow-swallow_tail = Хвост
-# Гарпии — Тело
+# Гарпии - Тело
 marking-HarpyChestDefault = Оперение под одеждой (грудь и пах)
 marking-HarpyChestDefault-upper = Оперение груди
 marking-HarpyChestDefault-lower = Оперение паха

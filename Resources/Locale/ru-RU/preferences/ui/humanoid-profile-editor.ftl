@@ -75,13 +75,13 @@ humanoid-profile-editor-job-priority-medium-button = Средний
 humanoid-profile-editor-job-priority-low-button = Низкий
 humanoid-profile-editor-job-priority-never-button = Никогда
 humanoid-profile-editor-naming-rules-warning = Внимание: Неуместные имена и описания могут привести к вмешательству администрации. Ознакомьтесь с правилами сервера.
-humanoid-profile-editor-markings-tab = Черты внешности>
+humanoid-profile-editor-markings-tab = Черты внешности
 humanoid-profile-editor-loadouts-tab = Снаряжение
 humanoid-profile-editor-loadouts-points-label = Очки снаряжения: { $points }/{ $max }
 humanoid-profile-editor-loadouts-show-unusable-button = Показать недоступное снаряжение
 humanoid-profile-editor-loadouts-show-unusable-button-tooltip =
     Если включено, предметы, недоступные для вашей роли, будут выделены красным.
-    Предметы, которые персонаж не может носить физически, — жёлтым.
+    Предметы, которые персонаж не может носить физически, - жёлтым.
 humanoid-profile-editor-loadouts-remove-unusable-button = Удалить недоступное снаряжение ({ $count })
 humanoid-profile-editor-loadouts-remove-unusable-button-tooltip = Удаляет из списка выбранного те предметы, которые не подходят текущей роли или расе.
 humanoid-profile-editor-loadouts-no-loadouts = Снаряжение не найдено

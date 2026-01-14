@@ -9,7 +9,7 @@ command-description-admins-all = Возвращает список ВСЕХ ад
 # Управление должностями (Jobs)
 command-description-jobs-jobs = Возвращает список всех должностей на станции.
 command-description-jobs-job = Возвращает информацию о конкретной должности на станции.
-command-description-jobs-isinfinite = Возвращает true, если количество слотов должности бесконечно, иначе — false.
+command-description-jobs-isinfinite = Возвращает true, если количество слотов должности бесконечно, иначе - false.
 command-description-jobs-adjust = Изменяет количество доступных слотов для указанной должности.
 command-description-jobs-set = Устанавливает точное количество слотов для указанной должности.
 command-description-jobs-amount = Возвращает текущее количество слотов для указанной должности.

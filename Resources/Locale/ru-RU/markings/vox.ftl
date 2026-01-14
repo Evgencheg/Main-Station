@@ -1,4 +1,4 @@
-# Воксы — Чешуя и части тела
+# Воксы - Чешуя и части тела
 marking-VoxLArmScales = Вокс, левая рука (Чешуя)
 marking-VoxLFootScales = Вокс, левая стопа (Чешуя)
 marking-VoxLHandScales = Вокс, левая кисть (Чешуя)

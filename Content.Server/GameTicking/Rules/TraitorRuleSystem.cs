@@ -3,6 +3,7 @@ using Content.Server.Antag;
 using Content.Server.GameTicking.Rules.Components;
 using Content.Server.Mind;
 using Content.Server.Objectives;
+using Content.Shared.Random.Helpers; // LP edit
 using Content.Server.PDA.Ringer;
 using Content.Server.Roles;
 using Content.Server.Traitor.Uplink;
@@ -76,7 +77,7 @@ public sealed class TraitorRuleSystem : GameRuleSystem<TraitorRuleComponent>
         string[] codewords = new string[finalCodewordCount];
         for (var i = 0; i < finalCodewordCount; i++)
         {
-            codewords[i] = _random.PickAndTake(codewordPool);
+            codewords[i] = Loc.GetString(_random.PickAndTake(codewordPool)); // LP edit
         }
         return codewords;
     }
@@ -100,7 +101,7 @@ public sealed class TraitorRuleSystem : GameRuleSystem<TraitorRuleComponent>
             briefing = Loc.GetString("traitor-role-codewords-short", ("codewords", string.Join(", ", component.Codewords)));
         }
 
-        var issuer = _random.Pick(_prototypeManager.Index(component.ObjectiveIssuers).Values);
+        var issuer = _random.Pick(_prototypeManager.Index(component.ObjectiveIssuers)); // LP edit
 
         // Uplink code will go here if applicable, but we still need the variable if there aren't any
         Note[]? code = null;

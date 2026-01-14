@@ -24,7 +24,7 @@ mood-effect-MobHighPressure = Кажется, меня раздавливает 
 mood-effect-TraitSaturnine = Всё какое-то отстойное. Ненавижу эту работу.
 mood-effect-Dead = Вы мертвы.
 # Социальные взаимодействия
-mood-effect-BeingHugged = Обнимашки — это здорово.
+mood-effect-BeingHugged = Обнимашки - это здорово.
 mood-effect-BeingPet = Кто-то меня погладил!
 mood-effect-ArcadePlay = Было весело поиграть в эту интересную аркаду.
 mood-effect-GotBlessed = Я получил благословение.
@@ -49,7 +49,7 @@ mood-effect-NicotineWithdrawal = Сейчас бы очень пригодила
 mood-effect-MorphineBenefit = Морфий помогает мне забыть о тревогах.
 mood-effect-MorphineWithdrawal = Всё слишком громкое, слишком яркое. Мне нужно что-то, чтобы прийти в себя...
 # Операции и наркотики
-mood-effect-SurgeryPain = Операция — это больно.
+mood-effect-SurgeryPain = Операция - это больно.
 mood-effect-EthanolBenefit = Алкоголь заставляет меня расслабиться.
 mood-effect-SpaceDrugsBenefit = Оооооо, чуваааак, какие цветаааа. Кажется, я слышу цвет и чувствую вкус звука, маааан.
 # Плазмамены

@@ -101,7 +101,7 @@ evolutionmenu-utility-eyesight-desc =
 evolutionmenu-utility-biodegrade-name = Биодеградация
 evolutionmenu-utility-biodegrade-desc =
     Изрыгни едкую субстанцию, разъедающую наручники и другие оковы.
-    При хвате — плюётся кислотой в лицо противника.
+    При хвате - плюётся кислотой в лицо противника.
     Стоимость: 30 химикатов.
 evolutionmenu-utility-chameleon-name = Кожа-Хамелеон
 evolutionmenu-utility-chameleon-desc =
@@ -109,7 +109,7 @@ evolutionmenu-utility-chameleon-desc =
     Стоимость: 20 химикатов.
 evolutionmenu-utility-stims-name = Передоз Эфедрином
 evolutionmenu-utility-stims-desc =
-    Введи в себя ударную дозу стимуляторов — снимай оглушения и ускоряй движение.
+    Введи в себя ударную дозу стимуляторов - снимай оглушения и ускоряй движение.
     Повторное применение ядовито.
     Стоимость: 30 химикатов.
 evolutionmenu-utility-fleshmend-name = Плотелечение
@@ -122,7 +122,7 @@ evolutionmenu-utility-lastresort-desc =
     Стоимость: 20 химикатов.
 evolutionmenu-utility-lesserform-name = Упрощённая Оболочка
 evolutionmenu-utility-lesserform-desc =
-    Свернись в компактную форму — стань разумной обезьяной.
+    Свернись в компактную форму - стань разумной обезьяной.
     Стоимость: 20 химикатов.
 evolutionmenu-utility-spacesuit-name = Космическая Адаптация
 evolutionmenu-utility-spacesuit-desc =

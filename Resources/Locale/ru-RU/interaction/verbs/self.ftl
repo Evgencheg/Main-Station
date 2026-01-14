@@ -1,7 +1,7 @@
 # У этих взаимодействий нет всплывающих окон для цели, так как целью всегда является сам пользователь.
 # Зачем тебе это делать?
 interaction-PinchSelf-name = Ущипнуть себя
-interaction-PinchSelf-description = Говорят, это помогает убедиться, что творящийся вокруг ад — не сон.
+interaction-PinchSelf-description = Говорят, это помогает убедиться, что творящийся вокруг ад - не сон.
 interaction-PinchSelf-success-self-popup = Вы щипаете себя... Ой!
 interaction-PinchSelf-success-others-popup =
     { THE($user) } щипает { $user ->

@@ -12,10 +12,10 @@ trait-description-SelfAware =
 trait-name-LightweightDrunk = Легко пьянеющий
 trait-description-LightweightDrunk = Алкоголь действует на вас значительно сильнее.
 trait-name-HeavyweightDrunk = Толерантность к алкоголю
-trait-description-HeavyweightDrunk = Ваша печень — титан. Алкоголь боится вас.
+trait-description-HeavyweightDrunk = Ваша печень - титан. Алкоголь боится вас.
 trait-name-LiquorLifeline = Алкогольная энергия
 trait-description-LiquorLifeline =
-    Забудьте про докторов — просто накатите! Выпивка лечит вас.
+    Забудьте про докторов - просто накатите! Выпивка лечит вас.
     В комплект входит [color=lightblue]Толерантность к алкоголю[/color].
 trait-name-Muted = Немой
 trait-description-Muted = Вы физически не способны говорить.
@@ -231,7 +231,7 @@ trait-description-PsychognomyPower =
     A special talent derived from Telepathy, Psychognomy is the ability to read the underlying imprint of telepathic messages.
     A Psychognomist can glean additional information from their telepathy, seeing vague outlines of what the source of a message
     might be. This information is not precise, and is largely only useful for narrowing down who the source of a message might be.
-trait-description-Redshirt = Вы — тот самый парень из массовки. Порог смерти снижен на 100 пунктов.
+trait-description-Redshirt = Вы - тот самый парень из массовки. Порог смерти снижен на 100 пунктов.
 trait-name-BrittleBoneDisease = Хрупкие кости
 trait-description-BrittleBoneDisease = Порог критической травмы снижен на 50 пунктов.
 trait-name-LightAmplification = ПНВ-модуль
@@ -247,7 +247,7 @@ trait-description-NaniteAutoRepairBots = Автоматически чинят �
 trait-name-BionicLeg = Бионическая нога
 trait-description-BionicLeg = Позволяет игнорировать штрафы к скорости от боли.
 trait-name-Vampirism = Вампиризм
-trait-description-Vampirism = Кровь — ваша единственная пища и лекарство.
+trait-description-Vampirism = Кровь - ваша единственная пища и лекарство.
 trait-name-SecurityEyesModule = IPC Eye Module: Sechud
 trait-description-SecurityEyesModule = A module installed in IPCs that work for the security department and similar, this module is considered contraband and may be removed if the unit isn't working for the security department.
 trait-name-MedicalEyesModule = IPC Eye Module: Medical
@@ -276,7 +276,7 @@ trait-description-RestrictedGear = У вас есть доступ к неста
 trait-name-SurgeryTraining = Хирургическая подготовка
 trait-description-SurgeryTraining = Вы освоили основы хирургии, что позволяет выполнять операции с нормальной скоростью.
 trait-name-ExperiencedSurgeon = Опытный хирург
-trait-description-ExperiencedSurgeon = Хирургия — ваша стезя. Никто не сравнится с вами в скорости проведения операций.
+trait-description-ExperiencedSurgeon = Хирургия - ваша стезя. Никто не сравнится с вами в скорости проведения операций.
 trait-name-BionicPryArm = Протез-лом
 trait-description-BionicPryArm = Ваши руки усилены гидравликой, что позволяет взламывать обесточенные шлюзы (как ломом).
 trait-name-Moffic = Моффский
@@ -319,6 +319,6 @@ trait-name-StuntedSnout = Притупленное обоняние
 trait-description-StuntedSnout = Ваше обоняние по какой-то причине нарушено. Вы не способны различать запахи.
 trait-name-Shell = Смена вида: Оболочка
 trait-description-Shell =
-    Вы — сложный позитронный мозг внутри конструкции из живых тканей поверх металлического скелета.
+    Вы - сложный позитронный мозг внутри конструкции из живых тканей поверх металлического скелета.
     Внешне вы выглядите как человек, но отсутствие человечности выдают пустые глаза и расчетливый взгляд.
     Почти все человеческие особенности заменяются на свойства КПБ.

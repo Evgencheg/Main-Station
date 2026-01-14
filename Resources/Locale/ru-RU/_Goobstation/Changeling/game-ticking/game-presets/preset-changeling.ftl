@@ -5,10 +5,10 @@ roundend-prepend-changeling-stolen-named = [color=white]{ $name }[/color] изв
 roundend-prepend-changeling-absorbed = Кто-то поглотил [color=red]{ $number }[/color] организмов.
 roundend-prepend-changeling-stolen = Кто-то извлёк [color=orange]{ $number }[/color] образцов ДНК.
 changeling-gamemode-title = Генокрады
-changeling-gamemode-description = Улей генокрадов проник на станцию, готовый забрать всё, что ему нужно — будь то снаряжение, лица... или ваши жизни.
+changeling-gamemode-description = Улей генокрадов проник на станцию, готовый забрать всё, что ему нужно - будь то снаряжение, лица... или ваши жизни.
 changeling-role-greeting =
-    Ты — генокрад, поглотивший и принявший облик { $name }!
+    Ты - генокрад, поглотивший и принявший облик { $name }!
     Для связи с ульем используй префикс ":g" перед сообщениями.
     Твои цели отображены в меню персонажа.
     Поглощай, перевоплощайся и эволюционируй, чтобы достичь их!
-changeling-role-greeting-short = Ты — генокрад, принявший изначальную форму { $name }.
+changeling-role-greeting-short = Ты - генокрад, принявший изначальную форму { $name }.

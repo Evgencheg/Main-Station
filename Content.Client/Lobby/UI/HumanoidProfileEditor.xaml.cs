@@ -1,6 +1,7 @@
 using System.IO;
 using System.Linq;
 using System.Numerics;
+using Content.Shared.Random.Helpers; // LP edit
 using Content.Client.Administration.UI;
 using Content.Client.Humanoid;
 using Content.Client.Message;
@@ -1617,7 +1618,7 @@ namespace Content.Client.Lobby.UI
                 return;
 
             var stationAiNames = _prototypeManager.Index<LocalizedDatasetPrototype>(StationAiNames);
-            var randomName = _random.Pick(stationAiNames.Values);
+            var randomName = Loc.GetString(_random.Pick(stationAiNames));
             StationAINameEdit.PlaceHolder = Loc.GetString(randomName);
         }
 
@@ -1632,7 +1633,7 @@ namespace Content.Client.Lobby.UI
                 return;
 
             var borgNames = _prototypeManager.Index<LocalizedDatasetPrototype>(CyborgNames); // LP edit
-            var randomName = _random.Pick(borgNames.Values);
+            var randomName = Loc.GetString(_random.Pick(borgNames)); // LP edit
             CyborgNameEdit.PlaceHolder = Loc.GetString(randomName);
         }
 
