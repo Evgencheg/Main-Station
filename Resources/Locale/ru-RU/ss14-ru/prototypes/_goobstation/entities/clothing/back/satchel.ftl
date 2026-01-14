@@ -1,4 +1,4 @@
-ent-ClothingBackpackSatchelNanorep = саквояж представителя NanoTrasen
+ent-ClothingBackpackSatchelNanorep = рюкзак корпоративного агента
     .desc = Дорогой темно-зеленый рюкзак. Пахнет факсовыми аппаратами.
-ent-ClothingBackpackSatchelBlueshield = саквояж «Синего щита»
-    .desc = Очень надежный защитный саквояж. Пахнет энергетическим оружием.
+ent-ClothingBackpackSatchelBlueshield = рюкзак «Синего щита»
+    .desc = Очень надежный защитный рюкзак. Пахнет энергетическим оружием.

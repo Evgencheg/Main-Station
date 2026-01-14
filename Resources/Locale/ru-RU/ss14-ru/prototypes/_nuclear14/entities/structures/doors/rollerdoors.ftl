@@ -1,5 +1,5 @@
-ent-N14DoorShutterFramedRoller = дверь-штора
-    .desc = Легкая герметичная рулонная дверь-штора.
-ent-N14DoorShutterRoller = гаражная дверь-штора
-    .desc = Легкая герметичная рулонная дверь-штора.
-    .suffix = frameless
+ent-N14DoorShutterFramedRoller = затвор
+    .desc = Легкая герметичная роллетная дверь.
+ent-N14DoorShutterRoller = гаражные ставни
+    .desc = Легкая герметичная роллетная дверь.
+    .suffix = безрамочный

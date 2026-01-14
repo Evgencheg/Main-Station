@@ -5,5 +5,5 @@ ent-DrinkRoninRefresher = «Ронин-освежитель»
     .suffix = ронин освежитель
     .desc = { ent-DrinkGlass.desc }
 ent-DrinkDeadlifter = «Мёртвый лифтер»
-    .suffix = deadlifter
+    .suffix = становая тяга
     .desc = { ent-DrinkGlass.desc }

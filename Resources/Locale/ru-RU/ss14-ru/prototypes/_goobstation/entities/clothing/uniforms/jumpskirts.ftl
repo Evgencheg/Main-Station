@@ -2,5 +2,5 @@ ent-ClothingUniformJumpskirtBlueshieldOfficer = юбка-шорты офицер
     .desc = Серо-синяя юбка-шорты с коротким рукавом, сделанная из прочного материала. Стандартная выдача «Синего щита».
 ent-CentcomAgentSkirt = юбка агента Центкома
     .desc = Юбка, которую носят сотрудники юридического отдела Центкома. Пахнет горелым кофе.
-ent-ClothingUniformJumpskirtNanotrasenRepresentative = юбка представителя NanoTrasen
+ent-ClothingUniformJumpskirtNanotrasenRepresentative = юбка корпоративного агента
     .desc = Чёрная юбка, которую носят официальные лица.

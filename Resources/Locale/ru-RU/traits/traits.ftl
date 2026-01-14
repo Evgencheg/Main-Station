@@ -205,33 +205,17 @@ trait-description-CyberEyesDiagnostic = Позволяют видеть сост
 trait-name-CyberEyesOmni = Киберглаза: Омнивизор
 trait-description-CyberEyesOmni = Сочетает все виды визоров. Высшая степень контрабанды.
 trait-name-Redshirt = Красная рубашка
-trait-name-DispelPower = Normality Projection
-trait-description-DispelPower =
-    Your Mentalic abilities include the power to enforce normality upon Noospheric phenomena.
-    This power, commonly known as "Dispel", allows the user to destroy otherworldly entities with their mind,
-    or to immediately end psychic effects.
-trait-name-MetapsionicPower = Metapsion
-trait-description-MetapsionicPower =
-    You are able to intuitively sense the activation of psionic abilities, as well as send out a 'scanning' pulse
-    to detect whether or not psions are nearby. This ability has a wide area of effect, and cannot precisely
-    scan individual entities. Still, it is better than being blind.
-trait-name-HealingWordPower = Healing Word
-trait-description-HealingWordPower =
-    Your Mentalic abilities includes the power to heal the wounded.
-    This power, commonly known as "Healing Word", allows the user to heal themselves or others with their mind.
-trait-name-XenoglossyPower = Xenoglossy
-trait-description-XenoglossyPower =
-    An advanced form of Telepathy, Xenoglossy is the ability to speak using emotional and metaphysical concepts,
-    rather than words, to impart meaning directly into the minds of a listener. When speaking using Xenoglossy, a psion can be
-    universally understood by any entity, who will hear the words as if spoken in one's own native tongue. Additionally,
-    Xenoglossy grants the ability to divine the underlying emotional meaning from the minds of other speakers,
-    allowing its user to understand any spoken language as if it was the user's own native tongue.
-trait-name-PsychognomyPower = Psychognomist
-trait-description-PsychognomyPower =
-    A special talent derived from Telepathy, Psychognomy is the ability to read the underlying imprint of telepathic messages.
-    A Psychognomist can glean additional information from their telepathy, seeing vague outlines of what the source of a message
-    might be. This information is not precise, and is largely only useful for narrowing down who the source of a message might be.
 trait-description-Redshirt = Вы - тот самый парень из массовки. Порог смерти снижен на 100 пунктов.
+trait-name-DispelPower = Проекция нормальности
+trait-description-DispelPower = Ваши ментальные способности включают в себя силу навязывания «нормальности» ноосферным явлениям. Эта сила, широко известная как «Развеивание» (Dispel), позволяет пользователю уничтожать потусторонние сущности силой мысли или мгновенно прекращать действие психических эффектов.
+trait-name-MetapsionicPower = Метапсионика
+trait-description-MetapsionicPower = Вы способны интуитивно чувствовать активацию псионических способностей, а также испускать «сканирующий» импульс для обнаружения псиоников поблизости. Эта способность действует на большой площади, но не позволяет точно просканировать отдельных существ. Тем не менее, это лучше, чем действовать вслепую.
+trait-name-HealingWordPower = Исцеляющее слово
+trait-description-HealingWordPower = Ваши ментальные способности включают в себя силу исцеления раненых. Эта сила, широко известная как «Исцеляющее слово», позволяет пользователю лечить себя или других с помощью разума.
+trait-name-XenoglossyPower = Ксеноглоссия
+trait-description-XenoglossyPower = Продвинутая форма телепатии. Ксеноглоссия — это способность общаться, используя эмоциональные и метафизические концепции вместо слов, передавая смысл напрямую в разум слушателя. При использовании ксеноглоссии псионик будет понят любым существом: оно услышит слова так, будто они произнесены на его родном языке. Кроме того, ксеноглоссия позволяет улавливать скрытый эмоциональный подтекст из разума других собеседников, позволяя понимать любой разговорный язык.
+trait-name-PsychognomyPower = Психогностика
+trait-description-PsychognomyPower = Особый талант, производный от телепатии. Психогномия — это способность считывать скрытый отпечаток телепатических сообщений. Психогност может извлекать дополнительную информацию из телепатии, видя смутные очертания того, кем может быть источник сообщения. Эта информация не является точной и в основном полезна лишь для сужения круга подозреваемых.
 trait-name-BrittleBoneDisease = Хрупкие кости
 trait-description-BrittleBoneDisease = Порог критической травмы снижен на 50 пунктов.
 trait-name-LightAmplification = ПНВ-модуль
@@ -256,10 +240,8 @@ trait-name-DiagnosticEyesModule = Модуль глаз КПБ: Диагност
 trait-description-DiagnosticEyesModule = Ваши сенсоры модернизированы диагностическим HUD и защитой от вспышек. Это позволяет отслеживать состояние синтетических объектов и защищает оптику от ослепления при сварочных работах.
 trait-name-OmniEyesModule = Модуль глаз КПБ: Премиум-модель
 trait-description-OmniEyesModule = Эта модификация объединяет в себе преимущества SecHUD, MedHUD и диагностического модуля. Внимание: данный модуль считается контрабандой для всех, кто не является сотрудником службы безопасности, и может быть удалён работодателем перед отправкой на станцию.
-
 trait-name-LightAmplificationModule = Модуль глаз КПБ: Усиление света
 trait-description-LightAmplificationModule = Ваше зрение улучшено модулем усиления света, что позволяет переключаться между стандартным режимом и режимом ПНВ (ночного зрения).
-
 trait-name-ThermographicVisionModule = Модуль глаз КПБ: Тепловизор
 trait-description-ThermographicVisionModule = Ваше зрение дополнено тепловизионным сканером. При включении он подсвечивает все биологические формы жизни в поле зрения. Сканер способен обнаруживать живых существ даже сквозь стены станции.
 trait-name-MothFlight = Полет моли

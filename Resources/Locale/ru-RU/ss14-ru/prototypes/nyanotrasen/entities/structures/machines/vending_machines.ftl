@@ -1,8 +1,8 @@
-ent-VendingMachineBoxingDrobe = Boxing Drobe
+ent-VendingMachineBoxingDrobe = Боксёрский халат
     .desc = Всегда мало товара.
-ent-VendingMachineRepDrobe = RepDrobe
+ent-VendingMachineRepDrobe = РепМат
     .desc = Машина для всех ваших потребностей в одежде для репортёров.
-ent-VendingMachineMNKDrobe = MNK Drobe
+ent-VendingMachineMNKDrobe = МНКМат
     .desc = Качественная одежда от MoNoKrome.
-ent-VendingMachineAutomatrobe = Automatrobe
+ent-VendingMachineAutomatrobe = Автоматомат
     .desc = Автоматически хорошая.

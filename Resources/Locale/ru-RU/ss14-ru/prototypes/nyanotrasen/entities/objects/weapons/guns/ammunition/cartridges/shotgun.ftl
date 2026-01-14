@@ -1,2 +1,2 @@
-ent-ShellSoulbreaker = гильзя (.50 soulbreaker)
+ent-ShellSoulbreaker = гильзя (.50 душераздиратель)
     .desc = { ent-BaseShellShotgun.desc }

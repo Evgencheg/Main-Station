@@ -5,6 +5,6 @@ ent-VehicleKeySecway = ключи от секвея
 ent-VehicleKeySyndicateSegway = ключи от сегвея Синдиката
     .desc = Выполнены в стиле культового дизайна Е-мага.
 ent-VehicleKeyATV = ключи от квадроцикла
-    .desc = Думаете, это просто один ключ? На самом деле ATV означает «Actually Two Vehicle keys».
+    .desc = Думаете, это просто один ключ? На самом деле ATV означает «На самом деле два ключа от машины».
 ent-VehicleKeyJanicart = ключи от полотёра
     .desc = Любопытный дизайн.

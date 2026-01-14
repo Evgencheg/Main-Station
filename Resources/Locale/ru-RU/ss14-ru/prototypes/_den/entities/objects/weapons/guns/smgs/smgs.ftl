@@ -1,2 +1,2 @@
-ent-WeaponSubMachineGunBRDIR25BSO = BRDI R-25
+ent-WeaponSubMachineGunBRDIR25BSO = БРДИ R-25
     .desc = Легендарное оружие, используемое членами Иностранного Легиона Республики Бизель. Перекрашено для офицеров Синей Службы Безопасности.

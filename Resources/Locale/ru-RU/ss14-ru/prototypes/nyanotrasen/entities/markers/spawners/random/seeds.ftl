@@ -1,3 +1,3 @@
 ent-SalvageSeedSpawnerLow = Спавнер семян для утилизаторов
-    .suffix = Low
+    .suffix = Низкий
     .desc = { ent-MarkerBase.desc }

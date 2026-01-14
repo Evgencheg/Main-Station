@@ -1,8 +1,8 @@
-ent-WeaponPistolUniversal = mk 32 "Universal"
+ent-WeaponPistolUniversal = мк 32 "Универсал"
     .desc = Дорогой и надёжный пистолет с достойными наступательными характеристиками. Использует патроны .45 магнум.
-ent-WeaponPistolUniversalEmpty = mk 32 "Universal"
+ent-WeaponPistolUniversalEmpty = мк 32 "Универсал"
     .suffix = пусто
     .desc = { ent-WeaponPistolUniversal.desc }
-ent-WeaponPistolUniversalSecurity = mk 32 "Universal"
+ent-WeaponPistolUniversalSecurity = мк 32 "Универсал"
     .desc = Дорогой и надёжный пистолет с достойными наступательными характеристиками. Использует патроны .45 магнум. Серийный номер на кожухе указывает, что это оружие принадлежит офицеру службы безопасности NT.
     .suffix = Наборы службы безопасности

@@ -1,4 +1,4 @@
-ent-RubberStampNanorep = печать представителя NanoTrasen
+ent-RubberStampNanorep = печать корпоративного агента
     .desc = { ent-RubberStampBase.desc }
 ent-RubberStampMagistrate = печать магистрата
     .desc = { ent-RubberStampBase.desc }
