@@ -131,6 +131,7 @@
           - 0 # Ammonia
           - 0 # N2O
           - 0 # Frezon
+          - 0 # BZ AruMoon edit
         temperature: 293.15
     - type: Destructible
       thresholds:

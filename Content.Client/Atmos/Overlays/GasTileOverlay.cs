@@ -113,7 +113,7 @@ namespace Content.Client.Atmos.Overlays
             for (var i = 0; i < _gasCount; i++)
             {
                 var delays = _frameDelays[i];
-                if (delays == null || delays.Length == 0) // LOP edit
+                if (delays == null || delays.Length == 0) // LP edit
                     continue;
 
                 var frameCount = _frameCounter[i];
@@ -124,16 +124,16 @@ namespace Content.Client.Atmos.Overlays
                     continue;
 
                 _timer[i] -= time;
-                // LOP edit start
+                // LP edit start
                 if (_frames[i] != null)
                     _frameCounter[i] = (frameCount + 1) % _frames[i].Length;
-                // LOP edit end
+                // LP edit end
             }
 
             for (var i = 0; i < FireStates; i++)
             {
                 var delays = _fireFrameDelays[i];
-                if (delays == null || delays.Length == 0) // LOP edit
+                if (delays == null || delays.Length == 0) // LP edit
                     continue;
 
                 var frameCount = _fireFrameCounter[i];
@@ -142,10 +142,10 @@ namespace Content.Client.Atmos.Overlays
 
                 if (_fireTimer[i] < time) continue;
                 _fireTimer[i] -= time;
-                // LOP edit start
+                // LP edit start
                 if (_fireFrames[i] != null)
                     _fireFrameCounter[i] = (frameCount + 1) % _fireFrames[i].Length;
-                // LOP edit end
+                // LP edit end
             }
         }
 
@@ -169,7 +169,7 @@ namespace Content.Client.Atmos.Overlays
                 xformQuery,
                 _xformSys);
 
-            var mapUid = _mapManager.GetMapEntityId(args.MapId); // LOP edit
+            var mapUid = _mapManager.GetMapEntityId(args.MapId); // LP edit
 
             if (_entManager.TryGetComponent<MapAtmosphereComponent>(mapUid, out var atmos))
                 DrawMapOverlay(drawHandle, args, mapUid, atmos);
