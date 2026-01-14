@@ -32,6 +32,19 @@ namespace Content.Server.Atmos.Portable
             Gas.Ammonia,
             Gas.NitrousOxide,
             Gas.Frezon,
+            // AruMoon edit start
+            Gas.BZ,
+            Gas.Pluoxium,
+            Gas.Hydrogen,
+            Gas.Nitrium,
+            Gas.Healium,
+            Gas.HyperNoblium,
+            Gas.ProtoNitrate,
+            Gas.Zauker,
+            Gas.Halon,
+            Gas.Helium,
+            Gas.AntiNoblium
+            // AruMoon edit end
         };
 
         [ViewVariables(VVAccess.ReadWrite)]
