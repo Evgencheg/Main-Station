@@ -83,3 +83,6 @@ enable_in_no_gravity = true
 
 [glimmer]
 enabled = false
+
+[atmos]
+space_wind = false
