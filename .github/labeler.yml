@@ -1,51 +1,64 @@
-"Карты":
+":musical_note: Звуки :musical_note:":
 - changed-files:
-  - any-glob-to-any-file:
-    - "Resources/Maps/**/*.yml" # Grid Files
-    - "Resources/Prototypes/Maps/**/*.yml" # Prototypes Files
-    - "Resources/Prototypes/**/Maps/**/*.yml" # Prototypes Files
+  - any-glob-to-any-file: "**/*.ogg"
 
-"Текстуры":
-- changed-files:
-  - any-glob-to-any-file:
-    - "**/*.rsi/*.png"
-    - "**/*.rsi/*.json"
-
-"UI":
-- changed-files:
-  - any-glob-to-any-file: "**/*.xaml*"
-
-"C#":
+":shark: C# :shark:":
 - changed-files:
   - any-glob-to-any-file: "**/*.cs"
 
-"Шейдеры":
+":gear: Конфиги :gear:":
 - changed-files:
-  - any-glob-to-any-file: '**/*.swsl'
+  - any-glob-to-any-file:
+    - "**/*.toml"
+    - "**/*.config"
+    - "*.json"
+    - ".github/*.yml"
+    - ".github/*.json"
+    - ".vscode/*.json"
+    - ".editorconfig"
 
-"Звук":
-- changed-files:
-  - any-glob-to-any-file: '**/*.ogg'
-
-"Документация":
+":book: Документация :book:":
 - changed-files:
   - any-glob-to-any-file:
     - "**/*.xml"
     - "**/*.md"
 
-"Переводы":
+":page_facing_up: Локализация :page_facing_up:":
 - changed-files:
-  - any-glob-to-any-file: "Resources/Locale/**/*.ftl"
+  - any-glob-to-any-file: 'Resources/Locale/**/*.ftl'
 
-"YML":
-- all:
-  - changed-files:
-    - any-glob-to-any-file: "**/*.yml"
-    - all-globs-to-any-file:
-      - "!Resources/Maps/**/*.yml"
-      - "!Resources/Prototypes/Maps/**/*.yml"
-      - "!Resources/Prototypes/**/Maps/**/*.yml"
-
-"База Данных":
+":world_map: Карты :world_map:":
 - changed-files:
-  - any-glob-to-any-file: "Content.Server.Database/Migrations/**/*.cs"
+  - any-glob-to-any-file:
+    - "Resources/Maps/**/*.yml"
+    - "Resources/Prototypes/Maps/**/*.yml"
+
+":art: Спрайты :art:":
+- changed-files:
+  - any-glob-to-any-file:
+    - "**/*.rsi/*.png"
+    - "**/*.rsi/*.json"
+
+":computer: Интерфейс :computer:":
+- changed-files:
+  - any-glob-to-any-file: "**/*.xaml*"
+
+":baby_chick: YML :baby_chick:":
+- changed-files:
+  - any-glob-to-any-file:
+    - "**/*.yml"
+  - all-globs-to-all-files:
+    - "!Resources/Maps/**/*.yml"
+    - "!Resources/Prototypes/Maps/**/*.yml"
+
+":wrench: GitHub Workflow :wrench:":
+- changed-files:
+  - any-glob-to-any-file: ".github/workflows/*.yml"
+
+":crystal_ball: Шейдеры :crystal_ball:":
+- changed-files:
+  - any-glob-to-any-file: '**/*.swsl'
+
+":no_entry: Не C# :no_entry:":
+- changed-files:
+  - all-globs-to-all-files: "!**/*.cs"
