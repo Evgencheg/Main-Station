@@ -136,7 +136,7 @@
 - type: latheRecipe
   id: RecipeDocVOLOComplaints
   result: DocVOLOComplaints
-  category: Complaintst
+  category: Complaints
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -253,7 +253,7 @@
 - type: latheRecipe
   id: RecipeDocCAOComplaints
   result: DocCAOComplaints
-  category: Complaintst
+  category: Complaints
   completetime: 2
   applyMaterialDiscount: false
   materials:
