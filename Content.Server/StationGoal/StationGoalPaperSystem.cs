@@ -107,7 +107,8 @@ public sealed class StationGoalPaperSystem : EntitySystem
                     ("name", _random.Pick(signerName.Values))
                 ),
                 Loc.GetString("station-goal-fax-paper-name"),
-                "StationGoalPaper"
+                "StationGoalPaper",
+                "PaperFormCC" // LP edit
             );
 
             _fax.Receive(uid, printout, null, fax);

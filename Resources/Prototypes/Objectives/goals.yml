@@ -77,10 +77,12 @@
 - type: weightedRandom
   id: StationGoalStation
   weights:
+    Transit: 1 # LP edit
     Area: 1
     BureaucraticError: 1
     Labor: 1
     Lectures: 1
+    Renovation: 1 # LP edit
     Museum: 1
     Shuttle: 1
     Storage: 1

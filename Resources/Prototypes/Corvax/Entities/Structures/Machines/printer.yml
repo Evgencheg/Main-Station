@@ -27,9 +27,6 @@
     runningState: building
     staticPacks:
     - DocumentStatic
-  - type: EmagLatheRecipes
-    emagStaticPacks:
-    - SyndicateDocumentStatic
   - type: Fixtures
     fixtures:
       fix1:
