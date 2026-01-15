@@ -23,7 +23,7 @@ namespace Content.Shared._EE.Contractors.Systems;
 
 public class SharedPassportSystem : EntitySystem
 {
-    public const int CurrentYear = 2450;
+    public static readonly int CurrentYear = DateTime.Now.AddYears(600).Year;
     const string PIDChars = "ABCDEFGHJKLMNPQRSTUVWXYZ0123456789";
 
     [Dependency] private readonly IGameTiming _timing = default!;
