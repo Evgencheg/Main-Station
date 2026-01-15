@@ -170,6 +170,7 @@
     - BasicSilicon
   - type: Machine
     board: WeaponEnergyTurretAIMachineCircuitboard
+  - type: StationAiTurret
   - type: DeviceNetwork
     receiveFrequencyId: TurretControlAI
     transmitFrequencyId: TurretAI
