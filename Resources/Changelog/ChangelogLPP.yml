@@ -37,3 +37,17 @@ Entries:
   id: 5608
   time: '2026-01-12T23:03:57.0000000+00:00'
   url: https://github.com/Lost-Paradise-Project/Main-Station/pull/2
+- author: BL02DL
+  changes:
+    - type: Add
+      message: Добавлена новая музыка в лобби и для ядерной боеголовки!
+  id: 5609
+  time: '2026-01-14T08:53:59.0000000+00:00'
+  url: https://github.com/Lost-Paradise-Project/Main-Station/pull/6
+- author: Evgencheg
+  changes:
+    - type: Add
+      message: Добавлен биокодинг на скафандры ЭС, ЯО и ОБР
+  id: 5610
+  time: '2026-01-14T19:37:06.0000000+00:00'
+  url: https://github.com/Lost-Paradise-Project/Main-Station/pull/10
