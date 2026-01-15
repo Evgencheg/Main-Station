@@ -1,3 +1,3 @@
 ent-DebugItemShapeWeird = предмет странной формы
     .desc = Что это такое...?
-    .suffix = DEBUG
+    .suffix = ДЕБАГ

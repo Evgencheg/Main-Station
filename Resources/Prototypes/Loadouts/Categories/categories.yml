@@ -113,7 +113,6 @@
   subCategories:
     - JobsEpistemicsAAUncategorized
     - JobsEpistemicsAcolyte
-    - JobsEpistemicsCataloger
     - JobsEpistemicsChaplain
     - JobsEpistemicsGolemancer
     - JobsEpistemicsMystagogue
@@ -255,6 +254,7 @@
 - type: loadoutCategory
   id: JobsService
   subCategories:
+    - JobsEpistemicsCataloger
     - JobsServiceAUncategorized
     - JobsServiceBartender
     - JobsServiceBotanist

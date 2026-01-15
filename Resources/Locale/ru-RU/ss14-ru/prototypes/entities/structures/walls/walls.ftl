@@ -1,5 +1,5 @@
-ent-BaseWall = { ent-BaseStructureWall }
-    .desc = { ent-BaseStructureWall.desc }
+ent-BaseWall = базовая стена
+    .desc = Удерживает воздух внутри, а ассистентов снаружи.
 ent-WallBrick = кирпичная стена
     .desc = { ent-BaseWall.desc }
 ent-WallClock = заводная стена
@@ -11,7 +11,7 @@ ent-WallMeat = мясная стена
 ent-WallCult = стена культа
     .desc = { ent-BaseWall.desc }
 ent-WallDebug = стена отладки
-    .suffix = DEBUG
+    .suffix = ДЕБАГ
     .desc = { ent-BaseWall.desc }
 ent-WallDiamond = бриллиантовая стена
     .desc = { ent-BaseWall.desc }

@@ -16,6 +16,7 @@
   color: "#9FED58"
   weight: -10
   roles:
+  - Librarian
   - Bartender
   - Botanist
   - Boxer
@@ -146,7 +147,6 @@
   - ResearchAssistant
   - Chaplain
   - ForensicMantis
-  - Librarian
   - Roboticist
 
 - type: department
