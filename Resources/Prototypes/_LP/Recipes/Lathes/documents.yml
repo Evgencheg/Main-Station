@@ -1,8 +1,7 @@
 ﻿- type: latheRecipe
   id: RecipeDocStReport
   result: DocStReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -11,8 +10,7 @@
 - type: latheRecipe
   id: RecipeDocADStatement
   result: DocADStatement
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -21,8 +19,7 @@
 - type: latheRecipe
   id: RecipeDocRRTInquiriesAndAppeals
   result: DocRRTInquiriesAndAppeals
-  categories:
-  - InquiriesAndAppeals
+  category: InquiriesAndAppeals
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -31,8 +28,7 @@
 - type: latheRecipe
   id: RecipeDocESStatement
   result: DocESStatement
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -41,8 +37,7 @@
 - type: latheRecipe
   id: RecipeDocBASStatement
   result: DocBASStatement
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -51,8 +46,7 @@
 - type: latheRecipe
   id: RecipeDocDWReport
   result: DocDWReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -61,8 +55,7 @@
 - type: latheRecipe
   id: RecipeDocRAOrders
   result: DocRAOrders
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -71,8 +64,7 @@
 - type: latheRecipe
   id: RecipeDocEWReport
   result: DocEWReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -81,8 +73,7 @@
 - type: latheRecipe
   id: RecipeDocDHMReport
   result: DocDHMReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -91,8 +82,7 @@
 - type: latheRecipe
   id: RecipeDocPAStatement
   result: DocPAStatement
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -101,8 +91,7 @@
 - type: latheRecipe
   id: RecipeDocAAStatement
   result: DocAAStatement
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -111,8 +100,7 @@
 - type: latheRecipe
   id: RecipeDocJRSOrder
   result: DocJRSOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -121,8 +109,7 @@
 - type: latheRecipe
   id: RecipeDocROrder
   result: DocROrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -131,8 +118,7 @@
 - type: latheRecipe
   id: RecipeDocAFEStatements
   result: DocAFEStatements
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -141,8 +127,7 @@
 - type: latheRecipe
   id: RecipeDocPFEPermissions
   result: DocPFEPermissions
-  categories:
-  - Permissions
+  category: Permissions
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -151,8 +136,7 @@
 - type: latheRecipe
   id: RecipeDocVOLOComplaints
   result: DocVOLOComplaints
-  categories:
-  - Complaintst
+  category: Complaintst
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -161,8 +145,7 @@
 - type: latheRecipe
   id: RecipeDocIAAReport
   result: DocIAAReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -171,8 +154,7 @@
 - type: latheRecipe
   id: RecipeDocIFRLDInquiriesAndAppeals
   result: DocIFRLDInquiriesAndAppeals
-  categories:
-  - InquiriesAndAppeals
+  category: InquiriesAndAppeals
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -181,8 +163,7 @@
 - type: latheRecipe
   id: RecipeDocCTOrder
   result: DocCTOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -191,8 +172,7 @@
 - type: latheRecipe
   id: RecipeDocParoleInquiriesAndAppeals
   result: DocParoleInquiriesAndAppeals
-  categories:
-  - InquiriesAndAppeals
+  category: InquiriesAndAppeals
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -201,8 +181,7 @@
 - type: latheRecipe
   id: RecipeDocROCStatement
   result: DocROCStatement
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -211,8 +190,7 @@
 - type: latheRecipe
   id: RecipeDocCTWStatement
   result: DocCTWStatement
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -221,8 +199,7 @@
 - type: latheRecipe
   id: RecipeDocInquiriesAndAppeals
   result: DocInquiriesAndAppeals
-  categories:
-  - InquiriesAndAppeals
+  category: InquiriesAndAppeals
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -231,8 +208,7 @@
 - type: latheRecipe
   id: RecipeDocRILDOrder
   result: DocRILDOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -241,8 +217,7 @@
 - type: latheRecipe
   id: RecipeDocCVConclusionsAndDecisions
   result: DocCVConclusionsAndDecisions
-  categories:
-  - ConclusionsAndDecisions
+  category: ConclusionsAndDecisions
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -251,8 +226,7 @@
 - type: latheRecipe
   id: RecipeDocBIRStatement
   result: DocBIRStatement
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -261,8 +235,7 @@
 - type: latheRecipe
   id: RecipeDocBIOrder
   result: DocBIOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -271,8 +244,7 @@
 - type: latheRecipe
   id: RecipeDocAdjustmentOrder
   result: DocAdjustmentOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -281,8 +253,7 @@
 - type: latheRecipe
   id: RecipeDocCAOComplaints
   result: DocCAOComplaints
-  categories:
-  - Complaintst
+  category: Complaintst
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -291,8 +262,7 @@
 - type: latheRecipe
   id: RecipeDocATWOrder
   result: DocATWOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -301,8 +271,7 @@
 - type: latheRecipe
   id: RecipeDocDutyOrder
   result: DocDutyOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -311,8 +280,7 @@
 - type: latheRecipe
   id: RecipeDocPFSDWPermissions
   result: DocPFSDWPermissions
-  categories:
-  - Permissions
+  category: Permissions
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -321,8 +289,7 @@
 - type: latheRecipe
   id: RecipeDocILOAReport
   result: DocILOAReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -331,8 +298,7 @@
 - type: latheRecipe
   id: RecipeDocIReport
   result: DocIReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -341,8 +307,7 @@
 - type: latheRecipe
   id: RecipeDocVerdictConclusionsAndDecisions
   result: DocVerdictConclusionsAndDecisions
-  categories:
-  - ConclusionsAndDecisions
+  category: ConclusionsAndDecisions
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -351,8 +316,7 @@
 - type: latheRecipe
   id: RecipeDocCOOReport
   result: DocCOOReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -361,8 +325,7 @@
 - type: latheRecipe
   id: RecipeDocSWPermission
   result: DocSWPermission
-  categories:
-  - Permissions
+  category: Permissions
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -371,8 +334,7 @@
 - type: latheRecipe
   id: RecipeDocWAPermission
   result: DocWAPermission
-  categories:
-  - Permissions
+  category: Permissions
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -381,8 +343,7 @@
 - type: latheRecipe
   id: RecipeDocPPOrder
   result: DocPPOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -391,8 +352,7 @@
 - type: latheRecipe
   id: RecipeDocMIOrder
   result: DocMIOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -401,8 +361,7 @@
 - type: latheRecipe
   id: RecipeDocProductionInquiriesAndAppeals
   result: DocProductionInquiriesAndAppeals
-  categories:
-  - InquiriesAndAppeals
+  category: InquiriesAndAppeals
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -411,8 +370,7 @@
 - type: latheRecipe
   id: RecipeDocCMIOrder
   result: DocCMIOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -421,8 +379,7 @@
 - type: latheRecipe
   id: RecipeDocCMIReport
   result: DocCMIReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -431,8 +388,7 @@
 - type: latheRecipe
   id: RecipeDocPSReportMed
   result: DocPSReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -441,8 +397,7 @@
 - type: latheRecipe
   id: RecipeDocAFPDPermission
   result: DocAFPDPermission
-  categories:
-  - Permissions
+  category: Permissions
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -451,8 +406,7 @@
 - type: latheRecipe
   id: RecipeDocSHReport
   result: DocSHReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -461,8 +415,7 @@
 - type: latheRecipe
   id: RecipeDocMDDOrder
   result: DocMDDOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -471,8 +424,7 @@
 - type: latheRecipe
   id: RecipeDocEuthanasiaInquiriesAndAppeals
   result: DocEuthanasiaInquiriesAndAppeals
-  categories:
-  - InquiriesAndAppeals
+  category: InquiriesAndAppeals
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -481,8 +433,7 @@
 - type: latheRecipe
   id: RecipeDocDeathReport
   result: DocDeathReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -491,8 +442,7 @@
 - type: latheRecipe
   id: RecipeDocBDPermission
   result: DocBDPermission
-  categories:
-  - Permissions
+  category: Permissions
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -501,8 +451,7 @@
 - type: latheRecipe
   id: RecipeDocInfectionReport
   result: DocInfectionReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -511,8 +460,7 @@
 - type: latheRecipe
   id: RecipeDocQuarantineOrder
   result: DocQuarantineOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -521,8 +469,7 @@
 - type: latheRecipe
   id: RecipeDocEpidemiologicalReport
   result: DocEpidemiologicalReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -531,8 +478,7 @@
 - type: latheRecipe
   id: RecipeDocEPPInquiriesAndAppeals
   result: DocEPPInquiriesAndAppeals
-  categories:
-  - InquiriesAndAppeals
+  category: InquiriesAndAppeals
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -541,8 +487,7 @@
 - type: latheRecipe
   id: RecipeDocLEDReport
   result: DocLEDReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -551,8 +496,7 @@
 - type: latheRecipe
   id: RecipeDocBuildingPermission
   result: DocBuildingPermission
-  categories:
-  - Permissions
+  category: Permissions
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -561,8 +505,7 @@
 - type: latheRecipe
   id: RecipeDocTCReport
   result: DocTCReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -571,8 +514,7 @@
 - type: latheRecipe
   id: RecipeDocRCWInquiriesAndAppeals
   result: DocRCWInquiriesAndAppeals
-  categories:
-  - InquiriesAndAppeals
+  category: InquiriesAndAppeals
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -581,8 +523,7 @@
 - type: latheRecipe
   id: RecipeDocPPInquiriesAndAppeals
   result: DocPPInquiriesAndAppeals
-  categories:
-  - InquiriesAndAppeals
+  category: InquiriesAndAppeals
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -591,8 +532,7 @@
 - type: latheRecipe
   id: RecipeDocPSReportSci
   result: DocPSReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -601,8 +541,7 @@
 - type: latheRecipe
   id: RecipeDocExperimentReport
   result: DocExperimentReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -611,8 +550,7 @@
 - type: latheRecipe
   id: RecipeDocExpeditionReport
   result: DocExpeditionReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -621,8 +559,7 @@
 - type: latheRecipe
   id: RecipeDocADReport
   result: DocADReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -631,8 +568,7 @@
 - type: latheRecipe
   id: RecipeDocRRBOrder
   result: DocRRBOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -641,8 +577,7 @@
 - type: latheRecipe
   id: RecipeDocLOSDReport
   result: DocLOSDReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -651,8 +586,7 @@
 - type: latheRecipe
   id: RecipeDocDisposalReport
   result: DocDisposalReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -661,8 +595,7 @@
 - type: latheRecipe
   id: RecipeDocExpeditionPermission
   result: DocExpeditionPermission
-  categories:
-  - Permissions
+  category: Permissions
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -671,8 +604,7 @@
 - type: latheRecipe
   id: RecipeDocPOInquiriesAndAppeals
   result: DocPOInquiriesAndAppeals
-  categories:
-  - InquiriesAndAppeals
+  category: InquiriesAndAppeals
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -681,8 +613,7 @@
 - type: latheRecipe
   id: RecipeDocEvacOrder
   result: DocEvacOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -691,8 +622,7 @@
 - type: latheRecipe
   id: RecipeDocSGOrder
   result: DocSGOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -701,8 +631,7 @@
 - type: latheRecipe
   id: RecipeDocSSROrder
   result: DocSSROrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -711,8 +640,7 @@
 - type: latheRecipe
   id: RecipeDocAOHInquiriesAndAppeals
   result: DocAOHInquiriesAndAppeals
-  categories:
-  - InquiriesAndAppeals
+  category: InquiriesAndAppeals
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -721,8 +649,7 @@
 - type: latheRecipe
   id: RecipeDocExecutiveOrder
   result: DocExecutiveOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -731,8 +658,7 @@
 - type: latheRecipe
   id: RecipeDocDeliveryOrder
   result: DocDeliveryOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -741,8 +667,7 @@
 - type: latheRecipe
   id: RecipeDocCCReport
   result: DocCCReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -751,8 +676,7 @@
 - type: latheRecipe
   id: RecipeDocCCFMReport
   result: DocCCFMReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -761,8 +685,7 @@
 - type: latheRecipe
   id: RecipeDocOperationOrder
   result: DocOperationOrder
-  categories:
-  - Orders
+  category: Orders
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -771,8 +694,7 @@
 - type: latheRecipe
   id: RecipeDocOperationReport
   result: DocOperationReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -781,8 +703,7 @@
 - type: latheRecipe
   id: RecipeDocCCRStatement
   result: DocCCRStatement
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -791,8 +712,7 @@
 - type: latheRecipe
   id: RecipeDocJAStatment
   result: DocJAStatment
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -801,8 +721,7 @@
 - type: latheRecipe
   id: RecipeDocJRStatment
   result: DocJRStatment
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -811,8 +730,7 @@
 - type: latheRecipe
   id: RecipeDocCPDStatements
   result: DocCPDStatements
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -821,8 +739,7 @@
 - type: latheRecipe
   id: RecipeDocAmenstyStatements
   result: DocAmenstyStatements
-  categories:
-  - Statements
+  category: Statements
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -831,8 +748,7 @@
 - type: latheRecipe
   id: RecipeDocPSReport
   result: DocPSReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
@@ -841,8 +757,7 @@
 - type: latheRecipe
   id: RecipeDocOSReport
   result: DocOSReport
-  categories:
-  - Reports
+  category: Reports
   completetime: 2
   applyMaterialDiscount: false
   materials:
